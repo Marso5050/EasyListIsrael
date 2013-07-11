@@ -68,4 +68,8 @@ def readStream(stream):
     raise Exception('Failed reading data, most likely not encoded as UTF-8:\n%s' % e)
 
 if __name__ == '__main__':
-  validate(readStream(sys.stdin))
+  try:
+    validate(readStream(sys.stdin))
+  except:
+    sys.exit(1)
+  sys.exit(0)
