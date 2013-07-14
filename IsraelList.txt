@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8yWsRRdeXLdYdLWrbapm7w
+! Checksum: jX7ZpEK76qhSyuPH0FPtjw
 ! Title: Rafi's IsraelList
-! Last modified: 10 Jul 2013 10:40 UTC
+! Last modified: 14/07/13  11:53 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -227,6 +227,7 @@
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il^*/Banners/
 ||haflla.com/download/banners/
+||holesinthenet.co.il/uploads/*/res/*.swf
 ||hometheater.co.il/opx/
 ||hometheater.co.il/pir/
 ||hwzone.co.il/jobs/
@@ -652,9 +653,9 @@ one.co.il##div[style="height:530px;line-height:520px"]
 one.co.il##div[style="text-align:right;border:solid 1px #d5d5d5;"]
 one.co.il##div[style="width: 636px; height: 32px; margin: 5px 0px 5px -340px;"]
 one.co.il##div[style="width:100%;text-align:center;background:#ebebeb;padding:10px auto 10px auto;"]
+one.co.il##DIV[style="width:300px;height:250px;padding:10px 12px 10px 12px;text-align:center;background:#ebebeb;"]
 one.co.il##div[style="width:410px;border:solid 1px #d2d2d2;padding:5px 0;"]
 one.co.il##table[width="100%"] + table[width="100%"]
-one.co.il##[href^="http://xads.zedo.com/"]
 onlife.co.il##.advertisement
 onlife.co.il##.banner
 onone.co.il##.onone_below_nav
