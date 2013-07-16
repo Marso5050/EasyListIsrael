@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jX7ZpEK76qhSyuPH0FPtjw
+! Checksum: yUdcCb01Gidpf35W3yMDbA
 ! Title: Rafi's IsraelList
-! Last modified: 14/07/13  11:53 Jerusalem Daylight Time
+! Last modified: 16/07/13  12:31 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -232,9 +232,12 @@
 ||hometheater.co.il/pir/
 ||hwzone.co.il/jobs/
 ||israelidiamond.co.il^*/bannerdisplay.aspx?
+||jobmaster.co.il/code/kot/imageurl.asp?url=http://www.jobmaster.co.il/code/kot/click.asp?i=3442&num=3442&target=_blank
+||jobmaster.co.il/images/banners/*
 ||kipa.co.il/banner/
 ||kipa.co.il/inc_files/banner.asp?
 ||kipasruga.com/banner/
+||ladaat.info/Images/Ads/*
 ||ladaat.net/advfiles/
 ||moreshet.co.il/banners/
 ||nanafiles.co.il//Upload/92011/File/File_*swf
@@ -393,6 +396,7 @@ calcalist.co.il##div[style="width: 315px; overflow-x: hidden;"]
 calcalist.co.il##table[width="150"]
 calcalist.co.il##table[width="478"]
 calcalist.co.il##[id="ads.top"]
+carsforum.co.il##.box2
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
 carsforum.co.il##table[width="130"][height="90"]
 d-home.co.il##.leftBoxBannerTower
@@ -427,6 +431,7 @@ globes.co.il###bizCupon
 globes.co.il###div_prsomi
 globes.co.il##.banner
 globes.co.il##.banners
+globes.co.il##.banner_box_300x250.NoTopBorder
 globes.co.il##.G_BoxTH
 globes.co.il##.G_divTopSpace20
 globes.co.il##.G_SendToFriendBannerBorders
@@ -505,6 +510,8 @@ kipa.co.il##.pirsum120-600
 kipa.co.il##.textualy
 kipa.co.il##DIV[style=" float:right; width:300px; margin:-2px ; height:160px; padding:0px;"]
 kipa.co.il##DIV[style="width:801px; overflow:hidden;  float:right; margin:0px; padding:10px 0px 10px 0px;"]
+ladaat.info###divTopBanner
+ladaat.info###divLeftAdNashim
 ladaat.net###mainBanner
 ladaat.net###topBanner
 ladaat.net##.banner.k_floatArt
@@ -873,7 +880,9 @@ ynet.co.il##.ghciPromoLightbox1
 ynet.co.il##.google_ads_t4590B_wrapper
 ynet.co.il##.MRec_main
 ynet.co.il##.WWXMLHpb_main
+ynet.co.il##A[href="http://bit.ly/16HgKRY"]
 ynet.co.il##a[href^="https://truma.pitchonlev.org.il/"]
+ynet.co.il##A[style="display:block;background-image:url(/images/article_video_header_samsung.png);width:408px;height:67px;"]
 ynet.co.il##a[style="padding-top: 10px; height: 46px; display: block;position:relative;"]
 ynet.co.il##div[style="margin:0 10px 20px 10px;height:67px;text-align:right;overflow:hidden;"]
 ynet.co.il##div[style="padding-top:10px;padding-bottom:10px;padding-right:10px"]
