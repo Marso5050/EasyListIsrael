@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KrKWGMliKhkv/5xhp/5FUQ
+! Checksum: pXg1ikKy2YzYjirlxiVYSg
 ! Title: Rafi's IsraelList
-! Last modified: 24/07/13  14:46 Jerusalem Daylight Time
+! Last modified: 24/07/13  19:09 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -484,8 +484,8 @@ inn.co.il##[id^="LeftColInf"]
 inn.co.il##[id^="LeftInfo"]
 iphones.co.il###mainBannerSponsers2
 iphones.co.il##div[style="padding-top:10px;width:250px;height:250px"]
-israelnationalnews.com##.tblTopAds
 israelhayom.co.il###mini-panel-top_banner
+israelnationalnews.com##.tblTopAds
 kama.co.il##[id^="ads."]
 kidstv.co.il##[id^="ads."]
 kikarhashabat.co.il##.banner_top
@@ -502,6 +502,7 @@ kipa.co.il###Extra[style="width:967px;margin:20px auto 20px auto;text-align:left
 kipa.co.il###FlashID[width="468"][height="60"]
 kipa.co.il###pir-104-21
 kipa.co.il###pir-108-31
+kipa.co.il###pir-108-32
 kipa.co.il###pir-109-50
 kipa.co.il###pir-92-200
 kipa.co.il###TopBanners
@@ -876,6 +877,7 @@ ynet.co.il###MarketSchedDiv
 ynet.co.il###merlin_iFrame732
 ynet.co.il###stlkbcparentmerlindiv
 ynet.co.il###trajectory_jumbo
+ynet.co.il###ynet_lightbox_content_top
 ynet.co.il##.Ad_123x199_wrap
 ynet.co.il##.Ad_425x67_wrap
 ynet.co.il##.bigdeal
