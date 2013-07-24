@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yUdcCb01Gidpf35W3yMDbA
+! Checksum: MjZODR1vzOntOvzzVTq9+A
 ! Title: Rafi's IsraelList
-! Last modified: 16/07/13  12:31 Jerusalem Daylight Time
+! Last modified: 24/07/13  13:00 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -165,6 +165,7 @@
 !-Tapuz/Flix-!
 /albums/intro5.flv$domain=flix.co.il|tapuz.co.il
 =adv1.tapuz.co.il/
+||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx*
 ||rm.tapuz.co.il^
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
@@ -729,6 +730,7 @@ talcomps.com###divStripBanner
 tapuz.co.il###AsyncMlinkBanner
 tapuz.co.il###BannerRightBotDiv
 tapuz.co.il###BannerRightDiv
+tapuz.co.il###ctl00_ctl00_ContentPlaceHolderMain_pnlSpacer
 tapuz.co.il###divTopBanner
 tapuz.co.il###divTopBanner1
 tapuz.co.il###divTopBanner2
@@ -744,6 +746,7 @@ tapuz.co.il###MonsterSpaceDivNew
 tapuz.co.il###monsterTBL1
 tapuz.co.il###popDiv
 tapuz.co.il###PopUpBanner
+tapuz.co.il###TopBanner
 tapuz.co.il###topBannerTable
 tapuz.co.il###window9
 tapuz.co.il##.advContainer
@@ -752,6 +755,7 @@ tapuz.co.il##.areaLeftBnr
 tapuz.co.il##.areaSideBanner
 tapuz.co.il##.BannerR
 tapuz.co.il##.BannerRB
+tapuz.co.il##.DivTopBanner
 tapuz.co.il##.footerBanner
 tapuz.co.il##.forumContentFooterBox
 tapuz.co.il##.headerBanner
