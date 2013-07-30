@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: pXg1ikKy2YzYjirlxiVYSg
+! Checksum: 3aOE2wUg1b5PsiRyp362TA
 ! Title: Rafi's IsraelList
-! Last modified: 24/07/13  19:09 Jerusalem Daylight Time
+! Last modified: 30/07/13  18:58 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -148,9 +148,11 @@
 /DisplayTalkbacksAdvertisingBox/*
 ||go.ynet.co.il/*/YnetBannerAdmin/
 ||go.ynet.co.il/jdate
+||go.ynet.co.il/short/commerce/*
 ||go.ynet.co.il/short/commerce/*/JDate/
 ||ynet.co.il/PicServer*/jdate
 ||ynet.co.il^*/index51.html
+||ynetshops.co.il/article/showbanner2/*
 !-nrg-!
 ||nrg.co.il/cache/banners/
 ||nrg.co.il/images/banners
@@ -870,6 +872,8 @@ yad2.co.il##.search_banners
 yad2.co.il##div[style=" height: 90px; background-color: #DDDDDD; border-radius:6px; width:978px; padding-top:8px; padding-bottom:8px; margin-left: auto; margin-right: auto; margin-bottom: 8px; position: relative;"]
 yeshanews.com###sideban
 yit.co.il###BannerImage
+ynet.co.il###art_bottom_adsense-1
+ynet.co.il###art_right_sponsored_links-1
 ynet.co.il###GoogleAdsenseMerlinWrapper
 ynet.co.il###googleAdsenseMivzakim
 ynet.co.il###MarketSchedDiv
@@ -881,6 +885,7 @@ ynet.co.il###ynet_lightbox_content_top
 ynet.co.il##.Ad_123x199_wrap
 ynet.co.il##.Ad_425x67_wrap
 ynet.co.il##.bigdeal
+ynet.co.il##.CAATVcompAdvertiseTv
 ynet.co.il##.gam_container
 ynet.co.il##.gam_wrapper
 ynet.co.il##.ghciPromoLightbox1
