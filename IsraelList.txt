@@ -526,9 +526,6 @@ lib.cet.ac.il##td[background^="/images/commercials"]
 link4u.co.il###link_banner
 link4u.co.il##.banner_300x224
 link4u.co.il##.banner_main
-luach.nrg.co.il##.CategoryInsideAddBanner
-luach.nrg.co.il##.searchResults-banner-row
-luach.nrg.co.il##[class^="banner728"]
 madas.co.il##.TextLinkBanner
 mail.ynet.co.il###divBottomCommercials
 maka.co.il##.leftBanner
@@ -634,23 +631,12 @@ newsgeek.co.il##.opx_box_rect_horiz
 newsgeek.co.il##.opx_box_square
 newsgeek.co.il##.opx_horiz
 nrg.co.il###adArt
-nrg.co.il###ban14
-nrg.co.il###bannerDimpackWrap
 nrg.co.il###bLColumnText
 nrg.co.il###bottomBanners
 nrg.co.il###CM8ShowAd
-nrg.co.il###CM8ShowAd_elyon_full_960x90
-nrg.co.il###CMF_box
 nrg.co.il###FrmTguvut + #nadlanBox
 nrg.co.il###left_google_ban
-nrg.co.il###merlin_vert_banners
-nrg.co.il###netexBox
-nrg.co.il###paidArticles
 nrg.co.il###sekindo
-nrg.co.il###shortBanner
-nrg.co.il###summerPromo + #bRColumnText
-nrg.co.il###tallBanner
-nrg.co.il###tallBannerBottom
 nrg.co.il###topBanner
 nrg.co.il##.bannerWrapper
 nrg.co.il##.tallBanner
