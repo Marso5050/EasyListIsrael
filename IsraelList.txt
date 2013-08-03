@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 9lJjnqK9U02JqrlE8CUr/g
+! Checksum: yqXtOXIXckg1YlOhAZ94YA
 ! Title: Rafi's IsraelList
-! Last modified: 03/08/13  23:33 Jerusalem Daylight Time
+! Last modified: 03/08/13  23:44 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -611,7 +611,6 @@ nana10.co.il##div[style="border: 0px; top:0px;top:0px;_top:0px;left:640px;width:
 nana10.co.il##div[style="height:465px;width:140px;"]
 nana10.co.il##div[style="top:0px;top:0px;_top:0px;left:640px;width:160px;_height:320px;height:320px;"]
 nana10.co.il##div[style="top:1440px; left:0px; width:320px; height:320px; overflow:hidden;"]
-nana10.co.il##div[style="top:1600px; right:480px; width:320px; height:320px;"]
 nana10.co.il##div[style="top:1600px; right:800px; width:320px; height:320px;"]
 nana10.co.il##div[style="top:1680px; left:640px; width:160px; height:640px;"]
 nana10.co.il##div[style="top:320px; left:640px; width:160px; height:640px;"]
