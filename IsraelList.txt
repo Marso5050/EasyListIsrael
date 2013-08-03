@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QiEpjI0lQJ6mkrQ4zHZu8g
+! Checksum: DNqpU2JA1OVS/RgAMF3oCA
 ! Title: Rafi's IsraelList
-! Last modified: 02/08/13  18:57 Jerusalem Daylight Time
+! Last modified: 03/08/13  22:21 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -146,6 +146,7 @@
 /CdaMarketTextlinks_
 /DisplayAdvertisingBox/*
 /DisplayTalkbacksAdvertisingBox/*
+||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||go.ynet.co.il/*/YnetBannerAdmin/
 ||go.ynet.co.il/jdate
 ||go.ynet.co.il/short/commerce/*
