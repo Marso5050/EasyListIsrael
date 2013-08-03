@@ -331,11 +331,6 @@ ashams.com###apDiv1
 ashams.com##table[width="900"][height="100"]
 ashams.com##table[width="900"][height="80"]
 ashams.com##table[width="900"][height="92"]
-atzuma.co.il###two_boxes
-atzuma.co.il##.adv_container
-atzuma.co.il##.adv_container_lower
-atzuma.co.il##.banner_container
-atzuma.co.il##DIV[style="display:block;width:728px;height:90px;background:white;margin:0 auto"]
 auto.co.il###ctl00_MainContent_bannerTower
 auto.co.il###ctl00_MainContent_divBannerHasut
 auto.co.il###ctl00_PlazmaUnique_divPlazmaServer
@@ -377,7 +372,6 @@ bokra.net##.twoBanners
 cafe.themarker.com##.banner-wrapper
 cafe.themarker.com##.hp_left_ad
 calcalist.co.il###ArticleBanner
-calcalist.co.il##.MerlinAreaCalcalist
 calcalist.co.il##div[style="width: 315px; overflow-x: hidden;"]
 calcalist.co.il##table[width="150"]
 calcalist.co.il##table[width="478"]
