@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DNqpU2JA1OVS/RgAMF3oCA
+! Checksum: 9lJjnqK9U02JqrlE8CUr/g
 ! Title: Rafi's IsraelList
-! Last modified: 03/08/13  22:21 Jerusalem Daylight Time
+! Last modified: 03/08/13  23:33 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -354,23 +354,23 @@ auto.co.il##div[style="width:450px;height:150px;margin-left:auto;margin-right:au
 beok.co.il###ctl00_banner
 beok.co.il##.Baner468x60
 beok.co.il##.BannerMid
-beok.co.il##.bnr_top_s
 beok.co.il##.TopBanners
+beok.co.il##.bnr_top_s
 bhol.co.il###coupons
 bhol.co.il##.CoponBox
 bhol.co.il##.tagCloud
+bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
 bhol.co.il##iframe[src^="http://ads.bhol.co.il/"]
 bhol.co.il##table[style="border-top:1px solid #EAEAEA;border-bottom:1px solid #EAEAEA"]
 bhol.co.il##td[style="padding-bottom:4px; padding-top:7px"]
-bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
 bhol.co.il,bhol-forums.co.il###divBanner_Plazma
 bhol.co.il,bhol-forums.co.il###sdera.width100pc
 bhol.co.il,bhol-forums.co.il###top_banner_ph
 bhol.co.il,bhol-forums.co.il##.banner.clear
 bhol.co.il,bhol-forums.co.il##.centered.padt10 > .clear
 bipbip.co.il###LeftBanner
-bipbip.co.il##.HotBannerDiv
 bipbip.co.il##.HPNewAdsBannerDiv
+bipbip.co.il##.HotBannerDiv
 bipbip.co.il##.TopBannerDiv
 bizportal.co.il###additional_article_adv
 bizportal.co.il###articleBannerMadadimLeft
@@ -392,6 +392,7 @@ bokra.net##.sponserShips
 bokra.net##.strip
 bokra.net##.towerBanner
 bokra.net##.twoBanners
+bursagraph.co.il###top_banner
 cafe.themarker.com##.banner-wrapper
 cafe.themarker.com##.hp_left_ad
 calcalist.co.il###ArticleBanner
