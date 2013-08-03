@@ -144,16 +144,10 @@
 !-ynet-!
 /CdaMarketingLink/*
 /CdaMarketTextlinks_
-/DisplayAdvertisingBox/*
-/DisplayTalkbacksAdvertisingBox/*
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||go.ynet.co.il/*/YnetBannerAdmin/
-||go.ynet.co.il/jdate
 ||go.ynet.co.il/short/commerce/*
-||go.ynet.co.il/short/commerce/*/JDate/
 ||ynet.co.il/images/headline_video_header_samsung.png
-||ynet.co.il/PicServer*/jdate
-||ynet.co.il^*/index51.html
 ||ynetshops.co.il/article/showbanner2/*
 !-nrg-!
 ||nrg.co.il/cache/banners/
