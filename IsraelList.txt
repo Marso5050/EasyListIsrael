@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sBbq3qbrBucFk44dGkoCGA
+! Checksum: 5qiQipU1g/GmoPbVwGaNRA
 ! Title: Rafi's IsraelList
-! Last modified: 03/08/13  22:56 Jerusalem Daylight Time
+! Last modified: 03/08/13  23:29 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -184,9 +184,6 @@
 ||images.globes.co.il^*/Vilon/
 ||images.globes.co.il^*/fixedpromoleft.
 ||images.globes.co.il^*/fixedpromoright.
-!-Bizportal-!
-||bizportal.co.il/web/webnew/bizbanner
-||bizportal.co.il^*/adv/
 !-zvz-!
 ||bannerwebservice.zvz.co.il^
 ||zvz.co.il/BannerCommunication.
@@ -375,9 +372,7 @@ bizportal.co.il###top_banner
 bizportal.co.il##.adv_breatdcrumbs
 bizportal.co.il##.baner1
 bizportal.co.il##.baner2
-bizportal.co.il##.community_baner_big_short
 bizportal.co.il##.kubia_banner
-bizportal.co.il##.main_article_add
 bizportal.co.il##.single_section_world_short
 bokra.net##.ad
 bokra.net##.bigStrip
