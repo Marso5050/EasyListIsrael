@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DNqpU2JA1OVS/RgAMF3oCA
+! Checksum: sBbq3qbrBucFk44dGkoCGA
 ! Title: Rafi's IsraelList
-! Last modified: 03/08/13  22:21 Jerusalem Daylight Time
+! Last modified: 03/08/13  22:56 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -151,6 +151,7 @@
 ||go.ynet.co.il/jdate
 ||go.ynet.co.il/short/commerce/*
 ||go.ynet.co.il/short/commerce/*/JDate/
+||ynet.co.il/images/headline_video_header_samsung.png
 ||ynet.co.il/PicServer*/jdate
 ||ynet.co.il^*/index51.html
 ||ynetshops.co.il/article/showbanner2/*
@@ -875,39 +876,16 @@ yeshanews.com###sideban
 yit.co.il###BannerImage
 ynet.co.il###art_bottom_adsense-1
 ynet.co.il###art_right_sponsored_links-1
-ynet.co.il###GoogleAdsenseMerlinWrapper
-ynet.co.il###googleAdsenseMivzakim
 ynet.co.il###MarketSchedDiv
 ynet.co.il###MarketSchedDiv
-ynet.co.il###merlin_iFrame732
-ynet.co.il###stlkbcparentmerlindiv
-ynet.co.il###trajectory_jumbo
 ynet.co.il###ynet_lightbox_content_top
-ynet.co.il##.Ad_123x199_wrap
-ynet.co.il##.Ad_425x67_wrap
 ynet.co.il##.art_video_samsung_top
 ynet.co.il##.bigdeal
 ynet.co.il##.CAATVcompAdvertiseTv
-ynet.co.il##.gam_container
-ynet.co.il##.gam_wrapper
 ynet.co.il##.ghciPromoLightbox1
-ynet.co.il##.google_ads_t4590B_wrapper
 ynet.co.il##.MRec_main
-ynet.co.il##.WWXMLHpb_main
-ynet.co.il##A[href="http://bit.ly/16HgKRY"]
-ynet.co.il##a[href^="https://truma.pitchonlev.org.il/"]
-ynet.co.il##A[style="display:block;background-image:url(/images/article_video_header_samsung.png);width:408px;height:67px;"]
-ynet.co.il##a[style="padding-top: 10px; height: 46px; display: block;position:relative;"]
-ynet.co.il##div[style="margin:0 10px 20px 10px;height:67px;text-align:right;overflow:hidden;"]
-ynet.co.il##div[style="padding-top:10px;padding-bottom:10px;padding-right:10px"]
-ynet.co.il##iframe[src^="http://go.ynet.co.il/jdate"]
 ynet.co.il##iframe[style="width:770px;height:191px;"]
 ynet.co.il##table[style="background-color:#EBEBE3;"]
-ynet.co.il##[name="ads_frame"]
-ynet.co.il##[src*="/DisplayAdvertisingBox/"]
-ynet.co.il##[src*="/ShowAdsLikeIframe/"]
-ynet.co.il##[src^="http://go.ynet.co.il/long/commerce/"]
-ynet.co.il,mynet.co.il##[align="left"][style="float:left;"] > [style="padding-top:10px;padding-bottom:10px;padding-right:10px"]
 ynet.co.il,mynet.co.il##[id="ads.top"]
 zap.co.il##.BannerBox
 zap.co.il##.headerBannerBottom
