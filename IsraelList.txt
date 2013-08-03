@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5qiQipU1g/GmoPbVwGaNRA
+! Checksum: 5T23n+NbD0XbMtLxw5ZnVQ
 ! Title: Rafi's IsraelList
-! Last modified: 03/08/13  23:29 Jerusalem Daylight Time
+! Last modified: 03/08/13  23:45 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -155,7 +155,6 @@
 ||nrg.co.il^*/maavaron.$script
 !-nana10-!
 ||nana10.co.il/SiteServicePromotion/
-||nsc.nana10.co.il^
 !-Haaretz/TheMarker/Mouse.co.il-!
 /neto_search.$domain=haaretz.co.il|themarker.com|mouse.co.il|haaretz.com
 |http://dclk.$domain=haaretz.co.il|themarker.com|mouse.co.il|haaretz.com
@@ -563,43 +562,25 @@ mp3music.co.il###adv
 mp3music.co.il##.posb
 nadlan.com##table[width="192"][bgcolor="#dcdcdc"]
 nadlan.com##table[width="980"][bgcolor="#dcdcdc"]
-nana10.co.il###AdvertisementNavigationBar
 nana10.co.il###ArticleBanner2x2
-nana10.co.il###BottomBanner
 nana10.co.il###bottomBannerBlock
-nana10.co.il###CM8ShowAd_Box_250x250_1
 nana10.co.il###CM8ShowAd_Ozen_160x600
 nana10.co.il###GoogleAds400x223
 nana10.co.il###IndexPromotions
 nana10.co.il###tmp1362_903810
 nana10.co.il###TopBanner
 nana10.co.il###topBannerBlock
-nana10.co.il##.AdvertisementMenuBg
 nana10.co.il##.AdvLine
 nana10.co.il##.ArticleInlineBanHolder
-nana10.co.il##.bbg.ArticleColumnBanner
 nana10.co.il##.hdAdvNavBarCont
 nana10.co.il##.HomePageCommercialsBg
-nana10.co.il##.MainTable > .cbInvisible + .noPrint[style="width:460px; height:230px; text-align:right; float:right;"]
 nana10.co.il##.rightTower.Banner
-nana10.co.il##.SekindoProducts
 nana10.co.il##.TowColsAdvertisementMenuBg
-nana10.co.il##DdivIV[style$="width:960px; height:80px;"]
 nana10.co.il##div[style=";margin:20px 10px 0px 10px;width:298px;height:298px;"]
-nana10.co.il##div[style="border: 0px; top:0px;top:0px;_top:0px;left:640px;width:160px;_height:400px;height:400px;"]
-nana10.co.il##div[style="height:465px;width:140px;"]
-nana10.co.il##div[style="top:0px;top:0px;_top:0px;left:640px;width:160px;_height:320px;height:320px;"]
-nana10.co.il##div[style="top:1440px; left:0px; width:320px; height:320px; overflow:hidden;"]
-nana10.co.il##div[style="top:1600px; right:480px; width:320px; height:320px;"]
 nana10.co.il##div[style="top:1600px; right:800px; width:320px; height:320px;"]
-nana10.co.il##div[style="top:1680px; left:640px; width:160px; height:640px;"]
 nana10.co.il##div[style="top:320px; left:640px; width:160px; height:640px;"]
-nana10.co.il##div[style="top:640px; left:640px; width:160px; height:640px;"]
-nana10.co.il##div[style="top:800px; left:0px; width:320px; height:320px; overflow:hidden;"]
-nana10.co.il##div[style="width:138px;height:298px;''"]
 nana10.co.il##div[style="width:138px;height:378px;''"]
 nana10.co.il##div[style="width:298px;height:298px;"]
-nana10.co.il##[src^="http://index.nana10.co.il/SiteServicePromotion/"]
 net-games.co.il###adv
 netex.mako.co.il###b2ClickImg
 netex.mako.co.il##.btmBanners
