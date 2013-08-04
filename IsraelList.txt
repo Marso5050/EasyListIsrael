@@ -373,7 +373,6 @@ calcalist.co.il##table[width="478"]
 calcalist.co.il##[id="ads.top"]
 carsforum.co.il##.box2
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
-carsforum.co.il##table[width="130"][height="90"]
 d-home.co.il##.leftBoxBannerTower
 d.co.il##.header_banner
 dacho.co.il##.ad_global_header
