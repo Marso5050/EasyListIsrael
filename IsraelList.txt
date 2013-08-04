@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /k4Q/4rdWAXRhnzs3AZyHQ
+! Checksum: WRr0q1/i44JoYGLrnESzXQ
 ! Title: Rafi's IsraelList
-! Last modified: 04/08/13  15:33 Jerusalem Daylight Time
+! Last modified: 04/08/13  17:25 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -225,7 +225,6 @@
 ||jobmaster.co.il/code/kot/imageurl.asp?url=http://www.jobmaster.co.il/code/kot/click.asp?i=3442&num=3442&target=_blank
 ||jobmaster.co.il/images/banners/*
 ||kipa.co.il/banner/
-||kipa.co.il/inc_files/banner.asp?
 ||kipasruga.com/banner/
 ||ladaat.info/Images/Ads/*
 ||ladaat.net/advfiles/
@@ -461,10 +460,8 @@ kipa.co.il###pir-104-21
 kipa.co.il###pir-108-31
 kipa.co.il###pir-108-32
 kipa.co.il###pir-109-50
-kipa.co.il###pir-92-200
 kipa.co.il###TopBanners
 kipa.co.il###TopLayer
-kipa.co.il##.bx-wrapper
 kipa.co.il##.pirsum110
 kipa.co.il##.pirsum120-600
 kipa.co.il##.textualy
@@ -484,28 +481,17 @@ mail.ynet.co.il###divBottomCommercials
 maka.co.il##.leftBanner
 maka.co.il##.midBanner
 maka.co.il##.rightBanner
-mako.co.il###banner_jambo_frame
-mako.co.il###dailyDealTicker
-mako.co.il###googleLinkUnits.not_for_print
-mako.co.il###hp_bottom_strip
-mako.co.il###playerAdArea
 mako.co.il###rAdContainer
 mako.co.il###topPageStrip.not_for_print
-mako.co.il###vod_player_banner
 mako.co.il##.ad
 mako.co.il##.adv_ordering
 mako.co.il##.clearer.iPhone
 mako.co.il##.fany
-mako.co.il##.headerMiddle
 mako.co.il##.header_level2_container
-mako.co.il##.item.adv_ordering_image_block
-mako.co.il##.mako_banner_coast
 mako.co.il##.sidebar_pic
-mako.co.il##.support_download
 mako.co.il##IMG[width="276"][height="555"]
 mako.co.il##[href$=".exe"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
-mako.co.il##[href^="http://www.buy2.co.il/DailyDeal?partner="]
 mako.co.il##[onclick$=".exe';"]
 maps.google.co.il###topads
 mekusharim.walla.co.il###ctl00_BasicMasterPage_dvSocialFormContainer
