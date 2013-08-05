@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: F5Q9yFDF848Ydg2aFxGQaw
+! Checksum: NyOFGGnqLE+yNoEjOCdVMg
 ! Title: Rafi's IsraelList
-! Last modified: 05/08/13  12:27 Jerusalem Daylight Time
+! Last modified: 05/08/13  12:42 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -41,15 +41,11 @@
 ||ad.smilemedia.co.il^$third-party
 ||adbrands.co.il^$third-party
 ||adbytime.co.il^$third-party
-||adgalax.com^$third-party
-||adphreak.com^$third-party
 ||adpremium.co.il^$third-party
 ||adprimes.co.il^$third-party
 ||adserver1.contx.co.il^$third-party
-||adserverplus.com^$third-party
 ||adsmarket.co.il^$third-party
 ||adsolutions.co.il^$third-party
-||aduacni.com^$third-party
 ||advernet.co.il^$third-party
 ||affiliate.zap.co.il^$third-party
 ||amadesa.com^$third-party
@@ -59,19 +55,15 @@
 ||clickcenter.net^$third-party
 ||clickon.co.il^$third-party
 ||colmextrading.com^$third-party
-||conduit-banners.com^$third-party
 ||dateland.co.il^$third-party
 ||finder.co.il^$third-party
 ||gz.sytes.net^$third-party
 ||hiro.co.il^$third-party
 ||ifile.co.il^$third-party
-||imedia.co.il^$third-party
 ||infomed.co.il^$third-party
-||infra-ad.com^$third-party
 ||jdate.co.il^$third-party
 ||lead-machine.co.il^$third-party
 ||leadim.co.il^$image,~image,popup
-||linicom.co.il^$third-party
 ||mako.buy2.co.il^$third-party
 ||media-vertex.com^$third-party
 ||media.foxweb.co.il^$third-party
@@ -86,23 +78,14 @@
 ||payperclick.co.il^$third-party
 ||pbid.iforex.com^$third-party
 ||pera.co.il^$third-party
-||predictad.com^$third-party
-||relevanti.com^$third-party
-||rest.co.il/widgets/$third-party
-||sekindo.com^$third-party
 ||showmoreads.com^$third-party
-||smowtion.com^$third-party
 ||talkahead.com^$third-party
-||total-media.net^$third-party
 ||wap.co.il^$third-party
-||webmedia.co.il^$third-party
 ||websense-media.co.il^$third-party
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
 ||www.21.tv^$third-party
-||xtendmedia.com^$third-party
 ||youtoo.co.il^$third-party
-||z5x.net^$third-party
 ||zuzmedia.com^$third-party
 !----Merlin----!
 /js/Merlin/*$domain=co.il
@@ -221,7 +204,6 @@
 ||hometheater.co.il/opx/
 ||hometheater.co.il/pir/
 ||hwzone.co.il/jobs/
-||israelidiamond.co.il^*/bannerdisplay.aspx?
 ||jobmaster.co.il/code/kot/imageurl.asp?url=http://www.jobmaster.co.il/code/kot/click.asp?i=3442&num=3442&target=_blank
 ||jobmaster.co.il/images/banners/*
 ||kipa.co.il/banner/
@@ -234,9 +216,6 @@
 ||news-israel.net/images/topAd
 ||pc.co.il/ajaxfilemanager/uploaded/$object
 ||pc.co.il/wp-content/uploads/$object
-||petri.co.il/media/$image
-||petri.co.il/wp-content/uploads/banner1000x75_
-||petri.co.il/wp-content/uploads/banner700x475_
 ||pitro.net/Banners/*
 ||raddar.co.il/bannersa.php
 ||rol.co.il/files/banners/
@@ -257,7 +236,6 @@
 ||ynet.co.il/Common/Api/Scripts/Linkom/
 ||ynet.co.il/images/hp_player_lightbox_top.png
 ||ynet.co.il/WinWinCooperation/
-||ynet.co.il^*/ynetbanneradmin/
 !
 !---------- Israeli Trackers ------------
 !
@@ -275,7 +253,6 @@
 !
 @@||ads.doctors.co.il/banners/$~third-party,image
 @@||ashams.com/Files/banners/221860881.png
-@@||checkm8.com/adam/inline?$script,domain=mako.co.il
 @@||forbes.co.il/download/banners/121.jpg
 @@||forbes.co.il/download/banners/113.jpg
 @@||hiro.co.il/clientaccesspolicy.xml
@@ -284,10 +261,8 @@
 @@||hiro.co.il/hiro/HiroServlet/HiroAdRequest?*http$domain=nrg.co.il
 @@||hiro.co.il^*/LayerWrapperReshet.swf
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
-@@||laledet.co.il/wp-content/plugins/wp-super-popup/
 @@||mako.checkm8.com/adam/$script
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
-@@||one.co.il/ads/*.mp4$object-subrequest
 @@||y.net-games.co.il/adimages/
 !
 !----Not by IsraelList (caused by EasyList / Fanboy's List)----!
@@ -309,12 +284,7 @@
 !
 !---------- Hiding Rules With Exceptions ----------
 !
-autotrader.co.za,bipbip.co.il,thebulletinboard.com,winwin.co.il#@#.adText
-bipbip.co.il#@##printads
-bipbip.co.il#@#.adpic
-bipbip.co.il,bmwoglasnik.si,clickindia.com#@#.adlist
 blms.co.il#@#.addtitle
-
 !
 !---------------------------Element hiding rules-----------------------------------!
 !
