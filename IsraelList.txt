@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yqXtOXIXckg1YlOhAZ94YA
+! Checksum: k5SXKtGF2Aj77TuqH5a+DA
 ! Title: Rafi's IsraelList
-! Last modified: 03/08/13  23:44 Jerusalem Daylight Time
+! Last modified: 05/08/13  12:10 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -252,6 +252,7 @@
 ||petri.co.il/media/$image
 ||petri.co.il/wp-content/uploads/banner1000x75_
 ||petri.co.il/wp-content/uploads/banner700x475_
+||pitro.net/Banners/*
 ||raddar.co.il/bannersa.php
 ||rol.co.il/files/banners/
 ||rotter.net/edit/text/
@@ -676,6 +677,7 @@ onone.co.il##.onone_below_nav
 onone.co.il##.onone_bigad
 onone.co.il##.onone_header_ad
 panet.co.il###banner-spec-0
+pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
 reshet.tv##div[id^="bh-image"]
