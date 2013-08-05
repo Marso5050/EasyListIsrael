@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: k5SXKtGF2Aj77TuqH5a+DA
+! Checksum: F5Q9yFDF848Ydg2aFxGQaw
 ! Title: Rafi's IsraelList
-! Last modified: 05/08/13  12:10 Jerusalem Daylight Time
+! Last modified: 05/08/13  12:27 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -144,15 +144,10 @@
 !-ynet-!
 /CdaMarketingLink/*
 /CdaMarketTextlinks_
-/DisplayAdvertisingBox/*
-/DisplayTalkbacksAdvertisingBox/*
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||go.ynet.co.il/*/YnetBannerAdmin/
-||go.ynet.co.il/jdate
 ||go.ynet.co.il/short/commerce/*
-||go.ynet.co.il/short/commerce/*/JDate/
-||ynet.co.il/PicServer*/jdate
-||ynet.co.il^*/index51.html
+||ynet.co.il/images/headline_video_header_samsung.png
 ||ynetshops.co.il/article/showbanner2/*
 !-nrg-!
 ||nrg.co.il/cache/banners/
@@ -160,7 +155,6 @@
 ||nrg.co.il^*/maavaron.$script
 !-nana10-!
 ||nana10.co.il/SiteServicePromotion/
-||nsc.nana10.co.il^
 !-Haaretz/TheMarker/Mouse.co.il-!
 /neto_search.$domain=haaretz.co.il|themarker.com|mouse.co.il|haaretz.com
 |http://dclk.$domain=haaretz.co.il|themarker.com|mouse.co.il|haaretz.com
@@ -180,12 +174,6 @@
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/news/Ads/
 ||globes.co.il/news/frames/topbannerflash$subdocument
-||images.globes.co.il^*/Vilon/
-||images.globes.co.il^*/fixedpromoleft.
-||images.globes.co.il^*/fixedpromoright.
-!-Bizportal-!
-||bizportal.co.il/web/webnew/bizbanner
-||bizportal.co.il^*/adv/
 !-zvz-!
 ||bannerwebservice.zvz.co.il^
 ||zvz.co.il/BannerCommunication.
@@ -226,8 +214,6 @@
 ||forbes.co.il/download/banners/*
 ||fus.walla.co.il/script.js
 ||globes.co.il/data/js/gtv_ads.js
-||globes.co.il/images/newglobeseng/fixedpromoleft.
-||globes.co.il/news/Cache/sponser.js
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il^*/Banners/
 ||haflla.com/download/banners/
@@ -239,7 +225,6 @@
 ||jobmaster.co.il/code/kot/imageurl.asp?url=http://www.jobmaster.co.il/code/kot/click.asp?i=3442&num=3442&target=_blank
 ||jobmaster.co.il/images/banners/*
 ||kipa.co.il/banner/
-||kipa.co.il/inc_files/banner.asp?
 ||kipasruga.com/banner/
 ||ladaat.info/Images/Ads/*
 ||ladaat.net/advfiles/
@@ -304,7 +289,9 @@
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||y.net-games.co.il/adimages/
+!
 !----Not by IsraelList (caused by EasyList / Fanboy's List)----!
+!
 @@||advertising.themarker.com^$~third-party
 @@||banners.e-dologic.co.il^$domain=bamba.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
@@ -342,28 +329,17 @@ ashams.com###apDiv1
 ashams.com##table[width="900"][height="100"]
 ashams.com##table[width="900"][height="80"]
 ashams.com##table[width="900"][height="92"]
-atzuma.co.il###two_boxes
-atzuma.co.il##.adv_container
-atzuma.co.il##.adv_container_lower
-atzuma.co.il##.banner_container
-atzuma.co.il##DIV[style="display:block;width:728px;height:90px;background:white;margin:0 auto"]
 auto.co.il###ctl00_MainContent_bannerTower
 auto.co.il###ctl00_MainContent_divBannerHasut
 auto.co.il###ctl00_PlazmaUnique_divPlazmaServer
 auto.co.il##.content.awLng[style="text-align: center;"]
 auto.co.il##div[style="width:300px;height:250px;margin-left:auto;margin-right:auto;"]
 auto.co.il##div[style="width:450px;height:150px;margin-left:auto;margin-right:auto;"]
-beok.co.il###ctl00_banner
-beok.co.il##.Baner468x60
 beok.co.il##.BannerMid
 beok.co.il##.TopBanners
-beok.co.il##.bnr_top_s
-bhol.co.il###coupons
-bhol.co.il##.CoponBox
 bhol.co.il##.tagCloud
 bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
 bhol.co.il##iframe[src^="http://ads.bhol.co.il/"]
-bhol.co.il##table[style="border-top:1px solid #EAEAEA;border-bottom:1px solid #EAEAEA"]
 bhol.co.il##td[style="padding-bottom:4px; padding-top:7px"]
 bhol.co.il,bhol-forums.co.il###divBanner_Plazma
 bhol.co.il,bhol-forums.co.il###sdera.width100pc
@@ -383,9 +359,7 @@ bizportal.co.il###top_banner
 bizportal.co.il##.adv_breatdcrumbs
 bizportal.co.il##.baner1
 bizportal.co.il##.baner2
-bizportal.co.il##.community_baner_big_short
 bizportal.co.il##.kubia_banner
-bizportal.co.il##.main_article_add
 bizportal.co.il##.single_section_world_short
 bokra.net##.ad
 bokra.net##.bigStrip
@@ -398,14 +372,12 @@ bursagraph.co.il###top_banner
 cafe.themarker.com##.banner-wrapper
 cafe.themarker.com##.hp_left_ad
 calcalist.co.il###ArticleBanner
-calcalist.co.il##.MerlinAreaCalcalist
 calcalist.co.il##div[style="width: 315px; overflow-x: hidden;"]
 calcalist.co.il##table[width="150"]
 calcalist.co.il##table[width="478"]
 calcalist.co.il##[id="ads.top"]
 carsforum.co.il##.box2
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
-carsforum.co.il##table[width="130"][height="90"]
 d-home.co.il##.leftBoxBannerTower
 d.co.il##.header_banner
 dacho.co.il##.ad_global_header
@@ -434,18 +406,12 @@ gamex.co.il##.banner_middle
 gamex.co.il##.banner_top
 getit.co.il###TopBanner
 globes.co.il###banner870x75
-globes.co.il###bizCupon
-globes.co.il###div_prsomi
 globes.co.il##.banner
 globes.co.il##.banners
-globes.co.il##.banner_box_300x250.NoTopBorder
 globes.co.il##.G_BoxTH
 globes.co.il##.G_divTopSpace20
-globes.co.il##.G_SendToFriendBannerBorders
 globes.co.il##.sekindo
-globes.co.il##div[style$="padding:5px 5px 0px 0px;"]
 globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:rtl;"]
-globes.co.il##div[style^="width: 95px; height: 70px; padding-top: 5px; padding-right: 5px;"]
 globes.co.il##[id^="ads."]
 google.co.il###mbEnd
 google.co.il###tads
@@ -471,21 +437,11 @@ ilimudim.co.il##.HPBanners
 infomed.co.il###divFirstTallBanner
 infomed.co.il###divSecondTallBanner
 inn.co.il###div300
-inn.co.il###divHPLeftInf
-inn.co.il###topInf
 inn.co.il##.Merlin
-inn.co.il##div[style="width:262px;padding:0px 5px;border: solid 1px #c4c4c4;border-width: 0px 1px"]
-inn.co.il##[class^="divHr"]
 inn.co.il##[class^="divMAD"]
-inn.co.il##[href^="http://aff.clickon.co.il/"]
-inn.co.il##[href^="http://clk.merlin.co.il/"]
-inn.co.il##[href^="http://www.wesell.co.il/click/"]
 inn.co.il##[id^="divBottomAd"]
 inn.co.il##[id^="divHr"]
 inn.co.il##[id^="divLeftInf"]
-inn.co.il##[id^="divMAD"]
-inn.co.il##[id^="divSAD"]
-inn.co.il##[id^="divTopAd"]
 inn.co.il##[id^="LeftColInf"]
 inn.co.il##[id^="LeftInfo"]
 iphones.co.il###mainBannerSponsers2
@@ -510,10 +466,8 @@ kipa.co.il###pir-104-21
 kipa.co.il###pir-108-31
 kipa.co.il###pir-108-32
 kipa.co.il###pir-109-50
-kipa.co.il###pir-92-200
 kipa.co.il###TopBanners
 kipa.co.il###TopLayer
-kipa.co.il##.bx-wrapper
 kipa.co.il##.pirsum110
 kipa.co.il##.pirsum120-600
 kipa.co.il##.textualy
@@ -528,36 +482,22 @@ lib.cet.ac.il##td[background^="/images/commercials"]
 link4u.co.il###link_banner
 link4u.co.il##.banner_300x224
 link4u.co.il##.banner_main
-luach.nrg.co.il##.CategoryInsideAddBanner
-luach.nrg.co.il##.searchResults-banner-row
-luach.nrg.co.il##[class^="banner728"]
 madas.co.il##.TextLinkBanner
 mail.ynet.co.il###divBottomCommercials
 maka.co.il##.leftBanner
 maka.co.il##.midBanner
 maka.co.il##.rightBanner
-mako.co.il###banner_jambo_frame
-mako.co.il###dailyDealTicker
-mako.co.il###googleLinkUnits.not_for_print
-mako.co.il###hp_bottom_strip
-mako.co.il###playerAdArea
 mako.co.il###rAdContainer
 mako.co.il###topPageStrip.not_for_print
-mako.co.il###vod_player_banner
 mako.co.il##.ad
 mako.co.il##.adv_ordering
 mako.co.il##.clearer.iPhone
 mako.co.il##.fany
-mako.co.il##.headerMiddle
 mako.co.il##.header_level2_container
-mako.co.il##.item.adv_ordering_image_block
-mako.co.il##.mako_banner_coast
 mako.co.il##.sidebar_pic
-mako.co.il##.support_download
 mako.co.il##IMG[width="276"][height="555"]
 mako.co.il##[href$=".exe"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
-mako.co.il##[href^="http://www.buy2.co.il/DailyDeal?partner="]
 mako.co.il##[onclick$=".exe';"]
 maps.google.co.il###topads
 mekusharim.walla.co.il###ctl00_BasicMasterPage_dvSocialFormContainer
@@ -586,42 +526,25 @@ mp3music.co.il###adv
 mp3music.co.il##.posb
 nadlan.com##table[width="192"][bgcolor="#dcdcdc"]
 nadlan.com##table[width="980"][bgcolor="#dcdcdc"]
-nana10.co.il###AdvertisementNavigationBar
 nana10.co.il###ArticleBanner2x2
-nana10.co.il###BottomBanner
 nana10.co.il###bottomBannerBlock
-nana10.co.il###CM8ShowAd_Box_250x250_1
 nana10.co.il###CM8ShowAd_Ozen_160x600
 nana10.co.il###GoogleAds400x223
 nana10.co.il###IndexPromotions
 nana10.co.il###tmp1362_903810
 nana10.co.il###TopBanner
 nana10.co.il###topBannerBlock
-nana10.co.il##.AdvertisementMenuBg
 nana10.co.il##.AdvLine
 nana10.co.il##.ArticleInlineBanHolder
-nana10.co.il##.bbg.ArticleColumnBanner
 nana10.co.il##.hdAdvNavBarCont
 nana10.co.il##.HomePageCommercialsBg
-nana10.co.il##.MainTable > .cbInvisible + .noPrint[style="width:460px; height:230px; text-align:right; float:right;"]
 nana10.co.il##.rightTower.Banner
-nana10.co.il##.SekindoProducts
 nana10.co.il##.TowColsAdvertisementMenuBg
-nana10.co.il##DdivIV[style$="width:960px; height:80px;"]
 nana10.co.il##div[style=";margin:20px 10px 0px 10px;width:298px;height:298px;"]
-nana10.co.il##div[style="border: 0px; top:0px;top:0px;_top:0px;left:640px;width:160px;_height:400px;height:400px;"]
-nana10.co.il##div[style="height:465px;width:140px;"]
-nana10.co.il##div[style="top:0px;top:0px;_top:0px;left:640px;width:160px;_height:320px;height:320px;"]
-nana10.co.il##div[style="top:1440px; left:0px; width:320px; height:320px; overflow:hidden;"]
 nana10.co.il##div[style="top:1600px; right:800px; width:320px; height:320px;"]
-nana10.co.il##div[style="top:1680px; left:640px; width:160px; height:640px;"]
 nana10.co.il##div[style="top:320px; left:640px; width:160px; height:640px;"]
-nana10.co.il##div[style="top:640px; left:640px; width:160px; height:640px;"]
-nana10.co.il##div[style="top:800px; left:0px; width:320px; height:320px; overflow:hidden;"]
-nana10.co.il##div[style="width:138px;height:298px;''"]
 nana10.co.il##div[style="width:138px;height:378px;''"]
 nana10.co.il##div[style="width:298px;height:298px;"]
-nana10.co.il##[src^="http://index.nana10.co.il/SiteServicePromotion/"]
 net-games.co.il###adv
 netex.mako.co.il###b2ClickImg
 netex.mako.co.il##.btmBanners
@@ -635,23 +558,12 @@ newsgeek.co.il##.opx_box_rect_horiz
 newsgeek.co.il##.opx_box_square
 newsgeek.co.il##.opx_horiz
 nrg.co.il###adArt
-nrg.co.il###ban14
-nrg.co.il###bannerDimpackWrap
 nrg.co.il###bLColumnText
 nrg.co.il###bottomBanners
 nrg.co.il###CM8ShowAd
-nrg.co.il###CM8ShowAd_elyon_full_960x90
-nrg.co.il###CMF_box
 nrg.co.il###FrmTguvut + #nadlanBox
 nrg.co.il###left_google_ban
-nrg.co.il###merlin_vert_banners
-nrg.co.il###netexBox
-nrg.co.il###paidArticles
 nrg.co.il###sekindo
-nrg.co.il###shortBanner
-nrg.co.il###summerPromo + #bRColumnText
-nrg.co.il###tallBanner
-nrg.co.il###tallBannerBottom
 nrg.co.il###topBanner
 nrg.co.il##.bannerWrapper
 nrg.co.il##.tallBanner
@@ -880,39 +792,16 @@ yeshanews.com###sideban
 yit.co.il###BannerImage
 ynet.co.il###art_bottom_adsense-1
 ynet.co.il###art_right_sponsored_links-1
-ynet.co.il###GoogleAdsenseMerlinWrapper
-ynet.co.il###googleAdsenseMivzakim
 ynet.co.il###MarketSchedDiv
 ynet.co.il###MarketSchedDiv
-ynet.co.il###merlin_iFrame732
-ynet.co.il###stlkbcparentmerlindiv
-ynet.co.il###trajectory_jumbo
 ynet.co.il###ynet_lightbox_content_top
-ynet.co.il##.Ad_123x199_wrap
-ynet.co.il##.Ad_425x67_wrap
 ynet.co.il##.art_video_samsung_top
 ynet.co.il##.bigdeal
 ynet.co.il##.CAATVcompAdvertiseTv
-ynet.co.il##.gam_container
-ynet.co.il##.gam_wrapper
 ynet.co.il##.ghciPromoLightbox1
-ynet.co.il##.google_ads_t4590B_wrapper
 ynet.co.il##.MRec_main
-ynet.co.il##.WWXMLHpb_main
-ynet.co.il##A[href="http://bit.ly/16HgKRY"]
-ynet.co.il##a[href^="https://truma.pitchonlev.org.il/"]
-ynet.co.il##A[style="display:block;background-image:url(/images/article_video_header_samsung.png);width:408px;height:67px;"]
-ynet.co.il##a[style="padding-top: 10px; height: 46px; display: block;position:relative;"]
-ynet.co.il##div[style="margin:0 10px 20px 10px;height:67px;text-align:right;overflow:hidden;"]
-ynet.co.il##div[style="padding-top:10px;padding-bottom:10px;padding-right:10px"]
-ynet.co.il##iframe[src^="http://go.ynet.co.il/jdate"]
 ynet.co.il##iframe[style="width:770px;height:191px;"]
 ynet.co.il##table[style="background-color:#EBEBE3;"]
-ynet.co.il##[name="ads_frame"]
-ynet.co.il##[src*="/DisplayAdvertisingBox/"]
-ynet.co.il##[src*="/ShowAdsLikeIframe/"]
-ynet.co.il##[src^="http://go.ynet.co.il/long/commerce/"]
-ynet.co.il,mynet.co.il##[align="left"][style="float:left;"] > [style="padding-top:10px;padding-bottom:10px;padding-right:10px"]
 ynet.co.il,mynet.co.il##[id="ads.top"]
 zap.co.il##.BannerBox
 zap.co.il##.headerBannerBottom
