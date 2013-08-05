@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WRr0q1/i44JoYGLrnESzXQ
+! Checksum: lNvvcgtxMHq0IXyc3Qb9vQ
 ! Title: Rafi's IsraelList
-! Last modified: 04/08/13  17:25 Jerusalem Daylight Time
+! Last modified: 05/08/13  12:06 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -287,7 +287,9 @@
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||y.net-games.co.il/adimages/
+!
 !----Not by IsraelList (caused by EasyList / Fanboy's List)----!
+!
 @@||advertising.themarker.com^$~third-party
 @@||banners.e-dologic.co.il^$domain=bamba.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
