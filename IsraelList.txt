@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NyOFGGnqLE+yNoEjOCdVMg
+! Checksum: 7RwnElqPnK1nkZIJ+e99VQ
 ! Title: Rafi's IsraelList
-! Last modified: 05/08/13  12:42 Jerusalem Daylight Time
+! Last modified: 06/08/13  22:12 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -436,11 +436,14 @@ kipa.co.il###pir-104-21
 kipa.co.il###pir-108-31
 kipa.co.il###pir-108-32
 kipa.co.il###pir-109-50
+kipa.co.il###pir-109-51
 kipa.co.il###TopBanners
 kipa.co.il###TopLayer
+kipa.co.il##.homeCol3.PirsumList.col
 kipa.co.il##.pirsum110
 kipa.co.il##.pirsum120-600
 kipa.co.il##.textualy
+kipa.co.il##A[href="http://www.babetov.co.il"]
 kipa.co.il##DIV[style=" float:right; width:300px; margin:-2px ; height:160px; padding:0px;"]
 kipa.co.il##DIV[style="width:801px; overflow:hidden;  float:right; margin:0px; padding:10px 0px 10px 0px;"]
 ladaat.info###divTopBanner
