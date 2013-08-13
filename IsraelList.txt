@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7RwnElqPnK1nkZIJ+e99VQ
+! Checksum: idAEfc0UmkyTwsi9ANN/ZQ
 ! Title: Rafi's IsraelList
-! Last modified: 06/08/13  22:12 Jerusalem Daylight Time
+! Last modified: 13/08/13  13:06 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -407,6 +407,7 @@ ilimudim.co.il##.HPBanners
 infomed.co.il###divFirstTallBanner
 infomed.co.il###divSecondTallBanner
 inn.co.il###div300
+inn.co.il###MadLargeInf
 inn.co.il##.Merlin
 inn.co.il##[class^="divMAD"]
 inn.co.il##[id^="divBottomAd"]
