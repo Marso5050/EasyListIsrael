@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: idAEfc0UmkyTwsi9ANN/ZQ
+! Checksum: 9ru/5PGZW00jozkffJN53Q
 ! Title: Rafi's IsraelList
-! Last modified: 13/08/13  13:06 Jerusalem Daylight Time
+! Last modified: 13/08/13  13:21 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -430,23 +430,12 @@ kikarhashabat.co.il##.mrl160_wrapper
 kikarhashabat.co.il##.mrlartb_wrapper
 kikarhashabat.co.il##div[style="margin: 16px 0;width:990px; border: 1px solid #bbb;overflow: hidden;position: relative;left: 1px"]
 kikarhashabat.co.il##DIV[style="margin: 16px 0;width:990px;overflow: hidden;position: relative;left: 1px;height: 100px;"]
-kipa.co.il###banner_textline
-kipa.co.il###Extra[style="width:967px;margin:20px auto 20px auto;text-align:left;overflow:auto;"]
-kipa.co.il###FlashID[width="468"][height="60"]
-kipa.co.il###pir-104-21
-kipa.co.il###pir-108-31
-kipa.co.il###pir-108-32
-kipa.co.il###pir-109-50
-kipa.co.il###pir-109-51
-kipa.co.il###TopBanners
-kipa.co.il###TopLayer
 kipa.co.il##.homeCol3.PirsumList.col
 kipa.co.il##.pirsum110
-kipa.co.il##.pirsum120-600
 kipa.co.il##.textualy
 kipa.co.il##A[href="http://www.babetov.co.il"]
 kipa.co.il##DIV[style=" float:right; width:300px; margin:-2px ; height:160px; padding:0px;"]
-kipa.co.il##DIV[style="width:801px; overflow:hidden;  float:right; margin:0px; padding:10px 0px 10px 0px;"]
+kipa.co.il##[id^="pir-"]
 ladaat.info###divTopBanner
 ladaat.info###divLeftAdNashim
 ladaat.net###mainBanner
