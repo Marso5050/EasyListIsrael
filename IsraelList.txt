@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 9ru/5PGZW00jozkffJN53Q
+! Checksum: pDmNVAHMBoCEbwZmuTu2Sw
 ! Title: Rafi's IsraelList
-! Last modified: 13/08/13  13:21 Jerusalem Daylight Time
+! Last modified: 15/08/13  08:26 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -112,7 +112,6 @@
 ||trivia2mobile.com^$popup,image,~image
 ||trivicell.com^$popup,image,~image
 ||truma.pitchonlev.org.il^$popup,image,~image,third-party
-||wap.co.il^$popup,image,~image
 ||wee.co.il^*/minisite/$popup,image,~image
 ||yeppyepp.co.il^$popup,image,~image
 ||yesno.co.il^$popup,image,~image
