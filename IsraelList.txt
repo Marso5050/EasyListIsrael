@@ -287,10 +287,7 @@ blms.co.il#@#.addtitle
 !
 !---------------------------Element hiding rules-----------------------------------!
 !
-2all.co.il###advtizer
 2all.co.il##.DivFlowBannerRight
-2net.co.il##.banner_left
-2net.co.il##.banner_right
 alarab.net###FloatBanner
 alarab.net###topbanner
 alarab.net##.ad
