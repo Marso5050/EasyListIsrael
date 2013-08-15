@@ -382,8 +382,6 @@ hwzone.co.il##.wideBanner
 hwzone.co.il##[class^="banner"]
 hydepark.co.il,bhol.co.il,bhol-forums.co.il,pic.co.il###Plasma_1
 ice.co.il##.top_pirsomet
-ilimudim.co.il##.CommonHeaderBanner
-ilimudim.co.il##.HPBanners
 infomed.co.il###divFirstTallBanner
 infomed.co.il###divSecondTallBanner
 inn.co.il###div300
