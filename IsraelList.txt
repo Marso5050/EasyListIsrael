@@ -393,13 +393,9 @@ inn.co.il##[id^="LeftInfo"]
 iphones.co.il###mainBannerSponsers2
 iphones.co.il##div[style="padding-top:10px;width:250px;height:250px"]
 israelhayom.co.il###mini-panel-top_banner
-kikarhashabat.co.il##.banner_top
 kikarhashabat.co.il##.comments_inner_banner
 kikarhashabat.co.il##.frontal_ad430x60
-kikarhashabat.co.il##.jumbo_box_wrapper
 kikarhashabat.co.il##.kikar_trade_links
-kikarhashabat.co.il##.mrl160_wrapper
-kikarhashabat.co.il##.mrlartb_wrapper
 kikarhashabat.co.il##div[style="margin: 16px 0;width:990px; border: 1px solid #bbb;overflow: hidden;position: relative;left: 1px"]
 kikarhashabat.co.il##DIV[style="margin: 16px 0;width:990px;overflow: hidden;position: relative;left: 1px;height: 100px;"]
 kipa.co.il##.homeCol3.PirsumList.col
