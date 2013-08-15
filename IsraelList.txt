@@ -357,9 +357,6 @@ flix.tapuz.co.il##.headerMiddle
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
 fxp.co.il###web_3_tool
 fxp.co.il##[src^="http://pera.co.il/www/delivery/"]
-games.co.il###newMainLeftBanner
-games.co.il##.bannerBetweenEssays
-games.co.il##.homeWideBanner
 gamex.co.il###skyscraper
 gamex.co.il##.banner
 gamex.co.il##.banner_forum_post
