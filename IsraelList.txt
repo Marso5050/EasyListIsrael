@@ -377,11 +377,7 @@ haaretz.co.il##.border-box.bottomStripBanners
 haaretz.co.il##.topSectionBanners
 haaretz.co.il##div[id^="dclk_objects_"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
-hwzone.co.il###cubicbigarticlesbannertable
-hwzone.co.il###middle_forum_banners
-hwzone.co.il##.bordercolor + .clearfix.windowbg3[style="padding: 5px; border-top:#999 solid thin;"]
 hwzone.co.il##.box2.alljobBox
-hwzone.co.il##.forum_hold > [style="height:95px; padding: 5px 0 2px 0;"]
 hwzone.co.il##.wideBanner
 hwzone.co.il##[class^="banner"]
 hydepark.co.il,bhol.co.il,bhol-forums.co.il,pic.co.il###Plasma_1
