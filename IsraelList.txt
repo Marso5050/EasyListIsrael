@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: pDmNVAHMBoCEbwZmuTu2Sw
+! Checksum: PBPQvIfDpKyU7wChK4dKBw
 ! Title: Rafi's IsraelList
-! Last modified: 15/08/13  08:26 Jerusalem Daylight Time
+! Last modified: 15/08/13  23:19 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -514,11 +514,6 @@ newmail.walla.co.il##.walTopBannerInside
 news-israel.net##td[width="763"][valign="middle"][bgcolor="#5181bf"][align="center"]
 news1.co.il##TABLE[bgcolor="#eeeeee"][height="150"]
 news1.co.il##TABLE[height="160"]
-newsgeek.co.il##.opx_box
-newsgeek.co.il##.opx_boxes_square
-newsgeek.co.il##.opx_box_rect_horiz
-newsgeek.co.il##.opx_box_square
-newsgeek.co.il##.opx_horiz
 nrg.co.il###adArt
 nrg.co.il###bLColumnText
 nrg.co.il###bottomBanners
