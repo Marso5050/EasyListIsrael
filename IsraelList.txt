@@ -374,11 +374,9 @@ globes.co.il##[id^="ads."]
 google.co.il###mbEnd
 google.co.il###tads
 haaretz.co.il##.border-box.bottomStripBanners
-haaretz.co.il##.border-box[style="width:300px; border-bottom: 1px dotted #D1DFE5;margin-bottom:20px;"]
 haaretz.co.il##.topSectionBanners
 haaretz.co.il##div[id^="dclk_objects_"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
-haaretz.com##.googleAds_article_page_above_comments
 holesinthenet.co.il##.bannerlink
 hwzone.co.il###cubicbigarticlesbannertable
 hwzone.co.il###middle_forum_banners
