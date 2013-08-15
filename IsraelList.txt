@@ -404,7 +404,6 @@ kipa.co.il##A[href="http://www.babetov.co.il"]
 kipa.co.il##DIV[style=" float:right; width:300px; margin:-2px ; height:160px; padding:0px;"]
 kipa.co.il##[id^="pir-"]
 ladaat.info###divTopBanner
-ladaat.info###divLeftAdNashim
 ladaat.net###mainBanner
 ladaat.net###topBanner
 ladaat.net##.banner.k_floatArt
