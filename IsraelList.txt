@@ -348,8 +348,6 @@ d-home.co.il##.leftBoxBannerTower
 d.co.il##.header_banner
 dacho.co.il##.ad_global_header
 doctors.co.il###big_banner
-doctors.co.il##.area-forum-sponsorship
-doctors.co.il##.ban_mirk
 doctors.co.il##div[id^="dgBan"]
 doctors.co.il##[id^="ads."]
 dossinet.me###bg_banner_header_top
