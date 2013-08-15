@@ -377,7 +377,6 @@ haaretz.co.il##.border-box.bottomStripBanners
 haaretz.co.il##.topSectionBanners
 haaretz.co.il##div[id^="dclk_objects_"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
-holesinthenet.co.il##.bannerlink
 hwzone.co.il###cubicbigarticlesbannertable
 hwzone.co.il###middle_forum_banners
 hwzone.co.il##.bordercolor + .clearfix.windowbg3[style="padding: 5px; border-top:#999 solid thin;"]
