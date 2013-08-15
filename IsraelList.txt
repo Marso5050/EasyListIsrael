@@ -384,7 +384,6 @@ hydepark.co.il,bhol.co.il,bhol-forums.co.il,pic.co.il###Plasma_1
 ice.co.il##.top_pirsomet
 inn.co.il###div300
 inn.co.il###MadLargeInf
-inn.co.il##.Merlin
 inn.co.il##[class^="divMAD"]
 inn.co.il##[id^="divBottomAd"]
 inn.co.il##[id^="divHr"]
