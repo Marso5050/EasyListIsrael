@@ -352,7 +352,6 @@ doctors.co.il##div[id^="dgBan"]
 doctors.co.il##[id^="ads."]
 dossinet.me###bg_banner_header_top
 feeder.co.il###banner
-feeder.co.il###hpWideBanner
 flix.co.il###topBannerTable
 flix.co.il##.headerMiddle
 flix.mako.co.il###topBannerTable
