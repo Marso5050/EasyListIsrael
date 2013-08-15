@@ -396,7 +396,6 @@ israelhayom.co.il###mini-panel-top_banner
 kikarhashabat.co.il##.comments_inner_banner
 kikarhashabat.co.il##.frontal_ad430x60
 kikarhashabat.co.il##.kikar_trade_links
-kikarhashabat.co.il##div[style="margin: 16px 0;width:990px; border: 1px solid #bbb;overflow: hidden;position: relative;left: 1px"]
 kikarhashabat.co.il##DIV[style="margin: 16px 0;width:990px;overflow: hidden;position: relative;left: 1px;height: 100px;"]
 kipa.co.il##.homeCol3.PirsumList.col
 kipa.co.il##.pirsum110
