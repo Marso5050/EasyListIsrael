@@ -582,15 +582,6 @@ wen.co.il###banner_preload
 wen.co.il##.swf_container
 winwin.co.il###tvBannerContWinWin
 winwin.co.il###tvBannerContWinWinDFP
-winwin.co.il##.Height17_Background
-winwin.co.il##.HomePageContainer > [style="width:965px; height:120px;float:right; background-color:#EEEFF3;"]
-winwin.co.il##.hotAdsBannerWrapper
-winwin.co.il##.TotalMediaFooter
-winwin.co.il##div[style="height:90px;width:728px;float:right;margin-right:122px; margin-top:25px;direction:rtl;"]
-winwin.co.il##div[style="position: relative; height: 180px;"]
-winwin.co.il##table[style="width: 633px; height: 95px; background-color: #D5D3D6;"]
-winwin.co.il##tr[style="height: 270px; background-color: #d6d3d6;"]
-winwin.co.il##[id^="ads."]
 wisebuy.co.il###bigAdd
 wisebuy.co.il###TblFooter1
 wisebuy.co.il##.LboxGrey[style="height:270px;text-align:center;"]
