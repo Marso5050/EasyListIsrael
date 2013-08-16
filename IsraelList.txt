@@ -590,10 +590,7 @@ xnet.co.il###ads\.top\.1
 xnet.co.il###XnetAdSenceThinkAdAD-300
 yad2.co.il###left_banner
 yad2.co.il###left_sekindo
-yad2.co.il###left_textlink_bg
-yad2.co.il###td_clicy_title
 yad2.co.il###top_banners
-yad2.co.il##.plasma_banner
 yad2.co.il##.search_banners
 yad2.co.il##.yad1_mergetitle[colspan="7"]
 yad2.co.il##div[style=" height: 90px; background-color: #DDDDDD; border-radius:6px; width:978px; padding-top:8px; padding-bottom:8px; margin-left: auto; margin-right: auto; margin-bottom: 8px; position: relative;"]
