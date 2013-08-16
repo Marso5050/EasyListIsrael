@@ -87,12 +87,6 @@
 ||www.21.tv^$third-party
 ||youtoo.co.il^$third-party
 ||zuzmedia.com^$third-party
-!----Merlin----!
-/js/Merlin/*$domain=co.il
-/Merlin.$script,domain=co.il
-/merlin.asp?$domain=co.il
-/merlin_$script,subdocument,xmlhttprequest,domain=co.il
-?MerlinID=$domain=co.il
 !
 !---------- Popups (Adblock Plus 2.0 or better) ----------
 !
