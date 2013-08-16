@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: P1uyYeJrgVCILgmQfMeZrw
+! Checksum: Qvm0Jw6Wf+0DW/CYyR1CIg
 ! Title: Rafi's IsraelList
-! Last modified: 16/08/13  18:45 Jerusalem Daylight Time
+! Last modified: 16/08/13  19:00 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -17,9 +17,7 @@
 !
 ! ---------- Generic Blocking Rules ----------
 !
-.co.il/ads/$~object-subrequest,domain=~lips.co.il|~sexadir.co.il|~seximo.co.il
 .co.il/adv/$~object-subrequest
-/dcloadads/*$domain=co.il
 /js/linicom/*
 /pirsum/*$script,object
 |http://ad.$domain=co.il
@@ -71,7 +69,6 @@
 ||mvertex.co.il^$third-party
 ||neto.co.il^$third-party
 ||next-net.co.il^$third-party
-||openx.gns.co.il^$third-party
 ||osef.co.il^$third-party
 ||payperclick.co.il^$third-party
 ||pbid.iforex.com^$third-party
@@ -103,7 +100,6 @@
 /CdaMarketingLink/*
 /CdaMarketTextlinks_
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
-||go.ynet.co.il/*/YnetBannerAdmin/
 ||go.ynet.co.il/short/commerce/
 ||ynet.co.il/images/headline_video_header_samsung.png
 ||ynetshops.co.il/article/showbanner2/
@@ -130,7 +126,6 @@
 ||inn.co.il/info_en/
 !-Globes-!
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
-||globes.co.il/news/Ads/
 ||globes.co.il/news/frames/topbannerflash$subdocument
 !-zvz-!
 ||bannerwebservice.zvz.co.il^
@@ -142,7 +137,6 @@
 ||adserv.mako.co.il^
 ||api.conduit.com^$domain=mako.co.il
 ||apps.mako.co.il/minicampaigns/
-||ds.keshet-i.com/bserver/
 ||ds.keshet-i.com/jserver/
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
@@ -179,8 +173,6 @@
 ||jobmaster.co.il/images/banners/
 ||kipa.co.il/banner/
 ||kipasruga.com/banner/
-||ladaat.info/Images/Ads/
-||ladaat.net/advfiles/
 ||moreshet.co.il/banners/
 ||my.yad2.co.il/Banner/
 ||nanafiles.co.il//Upload/92011/File/File_*swf
@@ -279,7 +271,6 @@ bhol.co.il,bhol-forums.co.il###top_banner_ph
 bhol.co.il,bhol-forums.co.il##.banner.clear
 bhol.co.il,bhol-forums.co.il##.centered.padt10 > .clear
 bipbip.co.il###LeftBanner
-bipbip.co.il##.HPNewAdsBannerDiv
 bipbip.co.il##.HotBannerDiv
 bipbip.co.il##.TopBannerDiv
 bizportal.co.il###additional_article_adv
@@ -311,7 +302,6 @@ calcalist.co.il##[id="ads.top"]
 carsforum.co.il##.box2
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
 d.co.il##.header_banner
-dacho.co.il##.ad_global_header
 doctors.co.il###big_banner
 doctors.co.il##div[id^="dgBan"]
 doctors.co.il##[id^="ads."]
@@ -393,7 +383,6 @@ mekusharim.walla.co.il##.main-lower-corners.clearfix
 moreshet.co.il###superJamboBanner
 morfix.co.il##.adv_ph
 mouse.co.il##.ads
-mouse.co.il##.banner160x600
 mouse.co.il##.noprint + .inline-box-text_new.noprint
 mouse.co.il##div.inline-box-text
 mp3music.co.il###adv
@@ -456,7 +445,6 @@ s-maof.com##DIV[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##DIV[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
 saloona.co.il###footer_banner
 saloona.co.il###top_banner
-saloona.co.il##.banner_468_60
 sport5.co.il###ucHeader_bannerTop
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
