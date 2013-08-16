@@ -612,7 +612,5 @@ ynet.co.il,mynet.co.il##[id="ads.top"]
 zap.co.il##.BannerBox
 zap.co.il##.headerBannerBottom
 zap.co.il##.headerBannerCenter
-zap.co.il##.MartefTbl
-zap.co.il##.midBan
 zone.walla.co.il##.w2.wp-0-b
 zvz.co.il##.ad_upper_sdera_container
