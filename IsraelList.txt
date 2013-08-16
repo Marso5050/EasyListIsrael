@@ -492,7 +492,6 @@ s-maof.com##DIV[style="position: absolute; right: 40px; top: 200px; z-index: 0; 
 saloona.co.il###footer_banner
 saloona.co.il###top_banner
 saloona.co.il##.banner_468_60
-sport5.co.il###CM8ShowAd
 sport5.co.il###ucHeader_bannerTop
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
@@ -500,12 +499,9 @@ sport5.co.il##.article_banner
 sport5.co.il##.article_bottom_banner
 sport5.co.il##.artilce_banners
 sport5.co.il##.banner-holder
-sport5.co.il##.headerNewMiddleBanner
 sport5.co.il##.inner_adv
 sport5.co.il##.iphone
 sport5.co.il##.promo-container
-sport5.co.il##[href^="http://www.21.tv/"]
-sport5.co.il##[id^="innerBanner"]
 sratim.co.il###clickosmedia
 sratim.co.il###clickosmedia2
 srugim.co.il###front_rcol_ad
