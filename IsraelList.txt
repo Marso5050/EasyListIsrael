@@ -506,7 +506,6 @@ sratim.co.il###clickosmedia
 sratim.co.il###clickosmedia2
 srugim.co.il###front_rcol_ad
 srugim.co.il##.margin_10
-srugim.co.il##.merlin_ad_art
 srugim.co.il##.srugim_top_slider
 srugim.co.il##.the_list_ad_zone
 starmed.co.il##.banner_990x90_top
