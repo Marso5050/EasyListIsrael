@@ -554,8 +554,6 @@ themarker.com##.topBanners
 themarker.com##.topSectionBanners
 themarker.com##[id^="dclk_"]
 themarker.com##[src^="/tmc/banners/dclk"]
-tog.co.il##.banners_bottom_place
-tog.co.il##.banner_298_116
 tvnetil.net##.cenb
 tvnetil.net##.contbtop
 tvnetil.net##div[style="float: left;height: 200px:width: 200px;margin: 32px 13px;"]
