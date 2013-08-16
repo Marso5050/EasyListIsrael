@@ -478,9 +478,6 @@ one.co.il##div[style="width:100%;text-align:center;background:#ebebeb;padding:10
 one.co.il##DIV[style="width:300px;height:250px;padding:10px 12px 10px 12px;text-align:center;background:#ebebeb;"]
 one.co.il##table[width="100%"] + table[width="100%"]
 onlife.co.il##.banner
-onone.co.il##.onone_below_nav
-onone.co.il##.onone_bigad
-onone.co.il##.onone_header_ad
 panet.co.il###banner-spec-0
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 reshet.tv###DivContent[rel="5498"]
