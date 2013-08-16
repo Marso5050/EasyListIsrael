@@ -387,7 +387,7 @@ inn.co.il###MadLargeInf
 inn.co.il##[class^="divMAD"]
 inn.co.il##[id^="divBottomAd"]
 inn.co.il##[id^="divHr"]
-ddddddddddddddddddddinn.co.il##[id^="divLeftInf"]
+inn.co.il##[id^="divLeftInf"]
 inn.co.il##[id^="LeftColInf"]
 inn.co.il##[id^="LeftInfo"]
 iphones.co.il###mainBannerSponsers2
@@ -422,9 +422,7 @@ mako.co.il##.fany
 mako.co.il##.header_level2_container
 mako.co.il##.sidebar_pic
 mako.co.il##IMG[width="276"][height="555"]
-mako.co.il##[href$=".exe"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
-mako.co.il##[onclick$=".exe';"]
 maps.google.co.il###topads
 mekusharim.walla.co.il###ctl00_BasicMasterPage_dvSocialFormContainer
 mekusharim.walla.co.il###ctl00_MasterPageTabs_dvPlasma.center.clearfix.main-page-plasma
