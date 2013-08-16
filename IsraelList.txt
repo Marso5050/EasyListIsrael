@@ -477,7 +477,6 @@ one.co.il##div[style="width: 636px; height: 32px; margin: 5px 0px 5px -340px;"]
 one.co.il##div[style="width:100%;text-align:center;background:#ebebeb;padding:10px auto 10px auto;"]
 one.co.il##DIV[style="width:300px;height:250px;padding:10px 12px 10px 12px;text-align:center;background:#ebebeb;"]
 one.co.il##table[width="100%"] + table[width="100%"]
-onlife.co.il##.advertisement
 onlife.co.il##.banner
 onone.co.il##.onone_below_nav
 onone.co.il##.onone_bigad
