@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MogDmQnKCWr7Lc3Iwe2x0w
+! Checksum: P1uyYeJrgVCILgmQfMeZrw
 ! Title: Rafi's IsraelList
-! Last modified: 16/08/13  18:36 Jerusalem Daylight Time
+! Last modified: 16/08/13  18:45 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -104,9 +104,9 @@
 /CdaMarketTextlinks_
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||go.ynet.co.il/*/YnetBannerAdmin/
-||go.ynet.co.il/short/commerce/*
+||go.ynet.co.il/short/commerce/
 ||ynet.co.il/images/headline_video_header_samsung.png
-||ynetshops.co.il/article/showbanner2/*
+||ynetshops.co.il/article/showbanner2/
 !-nrg-!
 ||nrg.co.il/cache/banners/
 ||nrg.co.il/images/banners
@@ -120,7 +120,7 @@
 !-Tapuz/Flix-!
 /albums/intro5.flv$domain=flix.co.il|tapuz.co.il
 =adv1.tapuz.co.il/
-||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx*
+||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
 ||rm.tapuz.co.il^
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
@@ -159,13 +159,13 @@
 ||banners*.bizportal.co.il^
 ||banners.news1.co.il^
 ||beok.co.il/banners/
-||bgu4u.co.il/download/banners/*
+||bgu4u.co.il/download/banners/
 ||cdn.mdigital.co.il/video/*.flv$domain=globes.co.il
 ||cs4u.co.il/mall_site_images/Promotions/
 ||d.co.il/Hebrew/images/Premium/
 ||date.dacho.co.il^
 ||ddlil.com/banners/
-||forbes.co.il/download/banners/*
+||forbes.co.il/download/banners/
 ||fus.walla.co.il/script.js
 ||globes.co.il/data/js/gtv_ads.js
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
@@ -176,18 +176,18 @@
 ||hometheater.co.il/pir/
 ||hwzone.co.il/jobs/
 ||jobmaster.co.il/code/kot/imageurl.asp?url=http://www.jobmaster.co.il/code/kot/click.asp?i=3442&num=3442&target=_blank
-||jobmaster.co.il/images/banners/*
+||jobmaster.co.il/images/banners/
 ||kipa.co.il/banner/
 ||kipasruga.com/banner/
-||ladaat.info/Images/Ads/*
+||ladaat.info/Images/Ads/
 ||ladaat.net/advfiles/
 ||moreshet.co.il/banners/
-||my.yad2.co.il/Banner/*
+||my.yad2.co.il/Banner/
 ||nanafiles.co.il//Upload/92011/File/File_*swf
 ||news-israel.net/images/topAd
 ||pc.co.il/ajaxfilemanager/uploaded/$object
 ||pc.co.il/wp-content/uploads/$object
-||pitro.net/Banners/*
+||pitro.net/Banners/
 ||raddar.co.il/bannersa.php
 ||rol.co.il/files/banners/
 ||rotter.net/edit/text/
@@ -563,7 +563,6 @@ yad2.co.il##TH[style="background: #505D6A; font-size: 13px; font-family: arial; 
 yeshanews.com###sideban
 ynet.co.il###art_bottom_adsense-1
 ynet.co.il###art_right_sponsored_links-1
-ynet.co.il###MarketSchedDiv
 ynet.co.il###MarketSchedDiv
 ynet.co.il###ynet_lightbox_content_top
 ynet.co.il##.art_video_samsung_top
