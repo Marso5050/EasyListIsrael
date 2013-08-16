@@ -492,7 +492,6 @@ s-maof.com##DIV[style="position: absolute; right: 40px; top: 200px; z-index: 0; 
 saloona.co.il###footer_banner
 saloona.co.il###top_banner
 saloona.co.il##.banner_468_60
-shivuk.themarker.com##.flash_banner
 sonara.net###stand_banner
 sonara.net##.static_banner3
 sonara.net##.static_banner4
