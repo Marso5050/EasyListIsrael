@@ -521,7 +521,6 @@ szf.co.il###block_html_3
 szf.co.il###block_html_6
 szf.co.il###cat1
 szf.co.il##.blocksubhead
-talcomps.com###divStripBanner
 tapuz.co.il###AsyncMlinkBanner
 tapuz.co.il###BannerRightBotDiv
 tapuz.co.il###BannerRightDiv
