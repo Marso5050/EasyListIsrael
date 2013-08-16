@@ -387,7 +387,7 @@ inn.co.il###MadLargeInf
 inn.co.il##[class^="divMAD"]
 inn.co.il##[id^="divBottomAd"]
 inn.co.il##[id^="divHr"]
-inn.co.il##[id^="divLeftInf"]
+ddddddddddddddddddddinn.co.il##[id^="divLeftInf"]
 inn.co.il##[id^="LeftColInf"]
 inn.co.il##[id^="LeftInfo"]
 iphones.co.il###mainBannerSponsers2
@@ -404,9 +404,6 @@ kipa.co.il##A[href="http://www.babetov.co.il"]
 kipa.co.il##DIV[style=" float:right; width:300px; margin:-2px ; height:160px; padding:0px;"]
 kipa.co.il##[id^="pir-"]
 ladaat.info###divTopBanner
-ladaat.net###mainBanner
-ladaat.net###topBanner
-ladaat.net##.banner.k_floatArt
 lib.cet.ac.il##td[background^="/images/commercials"]
 link4u.co.il###link_banner
 link4u.co.il##.banner_300x224
