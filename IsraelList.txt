@@ -582,8 +582,6 @@ wen.co.il###banner_preload
 wen.co.il##.swf_container
 winwin.co.il###tvBannerContWinWin
 winwin.co.il###tvBannerContWinWinDFP
-wisebuy.co.il###bigAdd
-wisebuy.co.il###TblFooter1
 wisebuy.co.il##.LboxGrey[style="height:270px;text-align:center;"]
 wisebuy.co.il##.LboxGrey[style="height:337px;text-align:center;"]
 wisebuy.co.il##div[id^="ads."]
