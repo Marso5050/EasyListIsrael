@@ -39,15 +39,8 @@
 ||24love.co.il^$third-party
 ||3dots.co.il^$third-party,domain=~maple-team.com
 ||ad.msn.co.il^$third-party
-||ad.smilemedia.co.il^$third-party
-||adbrands.co.il^$third-party
-||adbytime.co.il^$third-party
-||adpremium.co.il^$third-party
-||adprimes.co.il^$third-party
-||adserver1.contx.co.il^$third-party
 ||adsmarket.co.il^$third-party
 ||adsolutions.co.il^$third-party
-||advernet.co.il^$third-party
 ||affiliate.zap.co.il^$third-party
 ||amadesa.com^$third-party
 ||amazecell.com^$popup,image,~image
@@ -62,14 +55,10 @@
 ||classicsplayer.com/maka.swf$third-party
 ||clickcenter.net^$third-party
 ||clickon.co.il^$third-party
-||colmextrading.com^$third-party
 ||dateland.co.il^$third-party
 ||finder.co.il^$third-party
-||gz.sytes.net^$third-party
 ||hiro.co.il^$third-party
-||ifile.co.il^$third-party
 ||infomed.co.il^$third-party
-||israelinternetsurvey.co.il^$popup,image,~image
 ||jdate.co.il^$third-party
 ||lead-machine.co.il^$third-party
 ||leadim.co.il^$image,~image,popup
@@ -77,7 +66,6 @@
 ||mako.buy2.co.il^$third-party
 ||media-vertex.com^$third-party
 ||media.foxweb.co.il^$third-party
-||media6degrees.com^$third-party,domain=co.il
 ||merlin.co.il^$third-party
 ||multidown.co.il/affiliates.php$third-party
 ||mvertex.co.il^$third-party
@@ -104,14 +92,12 @@
 ||yeppyepp.co.il^$popup,image,~image
 ||yesno.co.il^$popup,image,~image
 ||youtoo.co.il^$third-party
-||zuzmedia.com^$third-party
 !-------------------------Site specific ad blocking rules--------------------------!
 !-Walla!-!
 ||a.walla.co.il^
 ||btg.mtvnservices.com/aria/$domain=mtv.walla.co.il
 ||clicks.walla.co.il^
 ||fus.walla.co.il/vast/
-||xban.walla.co.il^$domain=~jobcity.co.il
 ||xwne.wcdn.co.il^$domain=walla.co.il
 !-ynet-!
 /CdaMarketingLink/*
@@ -164,12 +150,9 @@
 !
 ! ---------- 1st party blocking rules ----------
 !
-||100fm.co.il/Banners/129.swf
-||100fm.co.il/getXmlp1000.
 ||2eat.co.il/banner/
 ||ads.one.co.il^
 ||ads.yeshanews.com^
-||ashams.com/banners_all.php
 ||ashams.com/Files/banners/
 ||auto.co.il/Banner/
 ||auto.co.il/BannersIfarme/
@@ -177,7 +160,6 @@
 ||banners.news1.co.il^
 ||beok.co.il/banners/
 ||bgu4u.co.il/download/banners/*
-||bnrs.alljobs.co.il^
 ||cdn.mdigital.co.il/video/*.flv$domain=globes.co.il
 ||cs4u.co.il/mall_site_images/Promotions/
 ||d.co.il/Hebrew/images/Premium/
@@ -209,12 +191,9 @@
 ||raddar.co.il/bannersa.php
 ||rol.co.il/files/banners/
 ||rotter.net/edit/text/
-||rotter.net/pir-marg.php
-||rotter.net/pir-margB.php
 ||sonara.net/js/asyn_banners.php
 ||sonara.net/static_banners.php
 ||sport5.co.il/banners2/
-||tog.co.il/Resources/JS/Site/Banner.js
 ||views.co.il/banners/
 ||wcdn.co.il/banners/
 ||wcdn.co.il/w/w-300/*-35.
@@ -231,10 +210,8 @@
 /HiroBeacon?
 ||events.walla.co.il/events.asp
 ||globes.co.il/news/click.ashx
-||hetchi.com^$third-party
 ||i.walla.co.il^*/trans.gif
 ||inn.co.il/Controls/HPJS.ashx?act=log
-||mako.co.il/images/common/pixel.gif
 ||nana10.co.il/statistics/
 ||walla.co.il/impression/
 !
@@ -268,7 +245,6 @@
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
 @@||sfx-images.mozilla.org^$image
-@@||tara.co.il/js/adx.js$~third-party
 @@||zvz.co.il/AdImages/$~third-party,image
 !
 !---------- Hiding Rules With Exceptions ----------
@@ -334,7 +310,6 @@ calcalist.co.il##table[width="478"]
 calcalist.co.il##[id="ads.top"]
 carsforum.co.il##.box2
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
-d-home.co.il##.leftBoxBannerTower
 d.co.il##.header_banner
 dacho.co.il##.ad_global_header
 doctors.co.il###big_banner
