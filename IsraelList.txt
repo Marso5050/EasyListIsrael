@@ -445,15 +445,12 @@ nana10.co.il###TopBanner
 nana10.co.il###topBannerBlock
 nana10.co.il##.AdvLine
 nana10.co.il##.ArticleInlineBanHolder
-nana10.co.il##.hdAdvNavBarCont
 nana10.co.il##.HomePageCommercialsBg
 nana10.co.il##.rightTower.Banner
 nana10.co.il##.TowColsAdvertisementMenuBg
 nana10.co.il##div[style=";margin:20px 10px 0px 10px;width:298px;height:298px;"]
 nana10.co.il##div[style="top:1600px; right:800px; width:320px; height:320px;"]
 nana10.co.il##div[style="top:320px; left:640px; width:160px; height:640px;"]
-nana10.co.il##div[style="width:138px;height:378px;''"]
-nana10.co.il##div[style="width:298px;height:298px;"]
 net-games.co.il###adv
 netex.mako.co.il###b2ClickImg
 netex.mako.co.il##.btmBanners
