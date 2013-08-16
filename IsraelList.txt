@@ -554,10 +554,6 @@ themarker.com##.topBanners
 themarker.com##.topSectionBanners
 themarker.com##[id^="dclk_"]
 themarker.com##[src^="/tmc/banners/dclk"]
-tvnetil.net##.cenb
-tvnetil.net##.contbtop
-tvnetil.net##div[style="float: left;height: 200px:width: 200px;margin: 32px 13px;"]
-tvnetil.net##div[style="margin-top: 10px;width: 580px;background: #FFFEEE;height: 60px;"]
 upf.co.il##.bgbanner
 video.walla.co.il##div[style="background: #1f1f1f; padding: 19px;"]
 video.walla.co.il##div[style="text-align:center; background: #1f1f1f; padding: 19px;"]
