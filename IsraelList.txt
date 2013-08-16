@@ -482,7 +482,6 @@ panet.co.il###banner-spec-0
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
-reshet.tv##div[id^="bh-image"]
 rest.co.il###divLeftBanner
 rest.co.il##.ad
 rotter.net##TD[style="width:120px;border:0px solid red;"]
