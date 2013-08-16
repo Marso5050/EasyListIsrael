@@ -423,14 +423,8 @@ mako.co.il##.header_level2_container
 mako.co.il##.sidebar_pic
 mako.co.il##IMG[width="276"][height="555"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
-mekusharim.walla.co.il###ctl00_BasicMasterPage_dvSocialFormContainer
-mekusharim.walla.co.il###ctl00_MasterPageTabs_dvPlasma.center.clearfix.main-page-plasma
-mekusharim.walla.co.il###dvToasterBanner
 mekusharim.walla.co.il##.center.footer-banner
 mekusharim.walla.co.il##.main-lower-corners.clearfix
-mekusharim.walla.co.il##[id$="AdvertismentRow"]
-mekusharim.walla.co.il##[id$="SocialBanner"]
-mekusharim.walla.co.il##[id$="XMLBanner"]
 mishpati.co.il###divSponsors
 moreshet.co.il###divBanner
 moreshet.co.il###superJamboBanner
