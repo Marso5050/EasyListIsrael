@@ -425,7 +425,6 @@ mako.co.il##IMG[width="276"][height="555"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
 mekusharim.walla.co.il##.center.footer-banner
 mekusharim.walla.co.il##.main-lower-corners.clearfix
-mishpati.co.il###divSponsors
 moreshet.co.il###divBanner
 moreshet.co.il###superJamboBanner
 morfix.co.il##.adv_ph
