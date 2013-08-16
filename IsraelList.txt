@@ -543,12 +543,6 @@ tapuz.co.il##.Partners_Ctrl
 tapuz.co.il##.rightBar1
 tapuz.co.il##.rightSideBanner
 teamim.co.il###dnn_BottomPane
-tgspot.co.il###top_banner
-tgspot.co.il##.retitems-wrapper
-tgspot.co.il##table[width="161"][height="601"]
-tgspot.co.il##table[width="251"]
-tgspot.co.il##table[width="470"]
-tgspot.co.il##table[width="483"]
 themarker.com###drushim
 themarker.com###floatingBannerDepPage
 themarker.com##.banner-area
