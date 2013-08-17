@@ -527,6 +527,7 @@ tapuz.co.il##.Partners_Ctrl
 tapuz.co.il##.rightBar1
 tapuz.co.il##.rightSideBanner
 teamim.co.il###dnn_BottomPane
+teamim.co.il###dnn_pageheaderpane
 themarker.com###drushim
 themarker.com###floatingBannerDepPage
 themarker.com##.banner-area
