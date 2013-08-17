@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Qvm0Jw6Wf+0DW/CYyR1CIg
+! Checksum: p0aS78a21Zts1k2uKqgXpg
 ! Title: Rafi's IsraelList
-! Last modified: 16/08/13  19:00 Jerusalem Daylight Time
+! Last modified: 17/08/13  22:59 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -567,6 +567,8 @@ wen.co.il###banner_preload
 wen.co.il##.swf_container
 winwin.co.il###tvBannerContWinWin
 winwin.co.il###tvBannerContWinWinDFP
+winwin.co.il##.MiddleBanners
+winwin.co.il##.TopBanners
 wisebuy.co.il##.LboxGrey[style="height:270px;text-align:center;"]
 wisebuy.co.il##.LboxGrey[style="height:337px;text-align:center;"]
 wisebuy.co.il##div[id^="ads."]
