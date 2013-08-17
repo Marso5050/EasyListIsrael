@@ -312,6 +312,7 @@ dossinet.me###bg_banner_header_top
 feeder.co.il###banner
 flix.mako.co.il###topBannerTable
 flix.tapuz.co.il##.headerMiddle
+flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margin-right: auto; min-height: 94px;\a     padding-bottom: 10px; padding-top: 65px; text-align: center; width: 960px;"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
 fxp.co.il###web_3_tool
 fxp.co.il##[src^="http://pera.co.il/www/delivery/"]
