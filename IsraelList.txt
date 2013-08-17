@@ -468,6 +468,7 @@ reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
 rest.co.il###divLeftBanner
 rest.co.il##.ad
+rest.co.il##.adBox2
 rotter.net##TD[style="width:120px;border:0px solid red;"]
 s-maof.com###backgroundPopup
 s-maof.com###popupContact
