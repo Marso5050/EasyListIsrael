@@ -433,8 +433,10 @@ news-israel.net##TABLE[style="height: 60px;margin-top:10px; width: 468px;float:r
 news-israel.net##TABLE[style="width: 300px; height: 251px; margin-bottom: 10px;"]
 news-israel.net##TABLE[style="width: 931px; height: 136px; margin-top: 8px; margin-bottom: 8px;"]
 news-israel.net##TABLE[style="width: 931px; height: 136px; margin-top: 8px;"]
+news1.co.il###UcInsideRight_1_1_tblWidth
 news1.co.il##TABLE[bgcolor="#eeeeee"][height="150"]
 news1.co.il##TABLE[height="160"]
+news1.co.il##TD[width="237"][style="background-color: #EEEEEE;"]
 nrg.co.il###adArt
 nrg.co.il###bLColumnText
 nrg.co.il###bottomBanners
