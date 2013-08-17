@@ -428,6 +428,11 @@ nana10.co.il##div[style="top:1600px; right:800px; width:320px; height:320px;"]
 nana10.co.il##div[style="top:320px; left:640px; width:160px; height:640px;"]
 netex.mako.co.il###b2Wrapper
 newmail.walla.co.il##.walTopBannerInside
+news-israel.net##TABLE[style="height: 60px; margin-top:10px; width: 468px;"]
+news-israel.net##TABLE[style="height: 60px;margin-top:10px; width: 468px;float:right;"]
+news-israel.net##TABLE[style="width: 300px; height: 251px; margin-bottom: 10px;"]
+news-israel.net##TABLE[style="width: 931px; height: 136px; margin-top: 8px; margin-bottom: 8px;"]
+news-israel.net##TABLE[style="width: 931px; height: 136px; margin-top: 8px;"]
 news1.co.il##TABLE[bgcolor="#eeeeee"][height="150"]
 news1.co.il##TABLE[height="160"]
 nrg.co.il###adArt
