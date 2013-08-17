@@ -304,6 +304,7 @@ calcalist.co.il##[id="ads.top"]
 carsforum.co.il##.box2
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
 d.co.il##.header_banner
+dacho.co.il##.fixed_position1
 doctors.co.il###big_banner
 doctors.co.il##div[id^="dgBan"]
 doctors.co.il##[id^="ads."]
