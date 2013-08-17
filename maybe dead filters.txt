@@ -1,11 +1,10 @@
-.co.il/ads/$~object-subrequest,domain=~lips.co.il|~sexadir.co.il|~seximo.co.il
 /@ads.js&$domain=co.il
 /AdPhreakClient.$domain=co.il
 /adsclickos.$script
 /AdsManager.$domain=co.il
 /albums/intro5.flv$domain=flix.co.il|tapuz.co.il
 /CdaMarketTextlinks_
-/dcloadads/*$domain=co.il
+/HiroBeacon?
 /js/linicom/*
 /neto_search.$domain=haaretz.co.il|themarker.com|mouse.co.il|haaretz.com
 =adv1.tapuz.co.il/
@@ -53,7 +52,6 @@ bhol.co.il,bhol-forums.co.il###sdera.width100pc
 bhol.co.il,bhol-forums.co.il##.banner.clear
 bipbip.co.il###LeftBanner
 bipbip.co.il##.HotBannerDiv
-bipbip.co.il##.HPNewAdsBannerDiv
 bipbip.co.il##.TopBannerDiv
 bizportal.co.il###articleBannerMadadimLeft
 bizportal.co.il###shdira
@@ -89,9 +87,9 @@ themarker.com##.topBanners
 themarker.com##[src^="/tmc/banners/dclk"]
 wen.co.il###banner_preload
 zvz.co.il##.ad_upper_sdera_container
+^ad_type=$domain=co.il
 ||1010.co.il^$popup,image,~image
 ||1800550.net^$third-party
-||21.tv^$third-party
 ||24love.co.il^$third-party
 ||2eat.co.il/banner/
 ||ad.msn.co.il^$third-party
@@ -124,8 +122,8 @@ zvz.co.il##.ad_upper_sdera_container
 ||d.co.il/Hebrew/images/Premium/
 ||dateland.co.il^$third-party
 ||ddlil.com/banners/
+||dimpact.co.il/Live/Banner/
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
-||ds.keshet-i.com/bserver/
 ||ds.keshet-i.com/jserver/
 ||finder.co.il^$third-party
 ||forbes.co.il/download/banners/
@@ -140,8 +138,6 @@ zvz.co.il##.ad_upper_sdera_container
 ||inn.co.il/info_en/
 ||jobmaster.co.il/code/kot/imageurl.asp?url=http://www.jobmaster.co.il/code/kot/click.asp?i=3442&num=3442&target=_blank
 ||jobmaster.co.il/images/banners/
-||ladaat.info/Images/Ads/
-||ladaat.net/advfiles/
 ||lead-machine.co.il^$third-party
 ||leadim.co.il^$image,~image,popup
 ||lovely.co.il/SignUp/$popup,third-party,image,~image
@@ -154,7 +150,6 @@ zvz.co.il##.ad_upper_sdera_container
 ||neto.co.il^$third-party
 ||news-israel.net/images/topAd
 ||next-net.co.il^$third-party
-||openx.gns.co.il^$third-party
 ||osef.co.il^$third-party
 ||payperclick.co.il^$third-party
 ||pbid.iforex.com^$third-party
@@ -183,6 +178,7 @@ zvz.co.il##.ad_upper_sdera_container
 ||wcdn.co.il/w/w-300/*-67.
 ||websense-media.co.il^$third-party
 ||wee.co.il^*/minisite/$popup,image,~image
+||www.21.tv^$third-party
 ||yeppyepp.co.il^$popup,image,~image
 ||yesno.co.il^$popup,image,~image
 ||ynet.co.il/Common/Api/Scripts/Linkom/
