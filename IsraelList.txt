@@ -39,7 +39,6 @@
 ||adsmarket.co.il^$third-party
 ||adsolutions.co.il^$third-party
 ||affiliate.zap.co.il^$third-party
-||amadesa.com^$third-party
 ||amazecell.com^$popup,image,~image
 ||atpclick.com^$third-party
 ||b4u.com^$popup,image,~image
@@ -140,7 +139,6 @@
 ||ds.keshet-i.com/jserver/
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
-||stats.mako.co.il^
 !
 ! ---------- 1st party blocking rules ----------
 !
@@ -161,7 +159,6 @@
 ||ddlil.com/banners/
 ||dimpact.co.il/Live/Banner/
 ||forbes.co.il/download/banners/
-||fus.walla.co.il/script.js
 ||globes.co.il/data/js/gtv_ads.js
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il^*/Banners/
@@ -197,16 +194,6 @@
 ||ynet.co.il/Common/Api/Scripts/Linkom/
 ||ynet.co.il/images/hp_player_lightbox_top.png
 ||ynet.co.il/WinWinCooperation/
-!
-!---------- Israeli Trackers ------------
-!
-/HiroBeacon?
-||events.walla.co.il/events.asp
-||globes.co.il/news/click.ashx
-||i.walla.co.il^*/trans.gif
-||inn.co.il/Controls/HPJS.ashx?act=log
-||nana10.co.il/statistics/
-||walla.co.il/impression/
 !
 !---------- Whitelists ----------
 !
