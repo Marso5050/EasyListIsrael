@@ -399,6 +399,7 @@ mekusharim.walla.co.il##.center.footer-banner
 mekusharim.walla.co.il##.main-lower-corners.clearfix
 moreshet.co.il###superJamboBanner
 morfix.co.il##.adv_ph
+mouse.co.il###floatingbannerdiv
 mouse.co.il##.ads
 mouse.co.il##.noprint + .inline-box-text_new.noprint
 mouse.co.il##div.inline-box-text
