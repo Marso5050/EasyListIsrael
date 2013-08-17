@@ -32,7 +32,6 @@
 !
 ||1010.co.il^$popup,image,~image
 ||1800550.net^$third-party
-||21.tv^$third-party
 ||213.8.137.51^
 ||24love.co.il^$third-party
 ||3dots.co.il^$third-party,domain=~maple-team.com
@@ -86,6 +85,7 @@
 ||wee.co.il^*/minisite/$popup,image,~image
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
+||www.21.tv^$third-party
 ||yeppyepp.co.il^$popup,image,~image
 ||yesno.co.il^$popup,image,~image
 ||youtoo.co.il^$third-party
