@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: p0aS78a21Zts1k2uKqgXpg
+! Checksum: josnRELTC3hpgpvnCE7Oxw
 ! Title: Rafi's IsraelList
-! Last modified: 17/08/13  22:59 Jerusalem Daylight Time
+! Last modified: 17/08/13  23:41 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -88,6 +88,7 @@
 ||yeppyepp.co.il^$popup,image,~image
 ||yesno.co.il^$popup,image,~image
 ||youtoo.co.il^$third-party
+!
 !-------------------------Site specific ad blocking rules--------------------------!
 !-Walla!-!
 ||a.walla.co.il^
@@ -100,7 +101,10 @@
 /CdaMarketTextlinks_
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||go.ynet.co.il/short/commerce/
+||ynet.co.il/Common/Api/Scripts/Linkom/
 ||ynet.co.il/images/headline_video_header_samsung.png
+||ynet.co.il/images/hp_player_lightbox_top.png
+||ynet.co.il/WinWinCooperation/
 ||ynetshops.co.il/article/showbanner2/
 !-nrg-!
 ||nrg.co.il/cache/banners/
@@ -111,6 +115,8 @@
 !-Haaretz/TheMarker/Mouse.co.il-!
 /neto_search.$domain=haaretz.co.il|themarker.com|mouse.co.il|haaretz.com
 |http://dclk.$domain=haaretz.co.il|themarker.com|mouse.co.il|haaretz.com
+||haaretz.co.il/htz/images/bg/Ad_bg.gif
+||haaretz.co.il^*/Banners/
 ||themarker.com/dclk/
 !-Tapuz/Flix-!
 /albums/intro5.flv$domain=flix.co.il|tapuz.co.il
@@ -125,6 +131,7 @@
 ||inn.co.il/info_en/
 !-Globes-!
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
+||globes.co.il/data/js/gtv_ads.js
 ||globes.co.il/news/frames/topbannerflash$subdocument
 !-zvz-!
 ||bannerwebservice.zvz.co.il^
@@ -159,9 +166,6 @@
 ||ddlil.com/banners/
 ||dimpact.co.il/Live/Banner/
 ||forbes.co.il/download/banners/
-||globes.co.il/data/js/gtv_ads.js
-||haaretz.co.il/htz/images/bg/Ad_bg.gif
-||haaretz.co.il^*/Banners/
 ||haflla.com/download/banners/
 ||holesinthenet.co.il/uploads/*/res/*.swf
 ||hometheater.co.il/opx/
@@ -191,9 +195,6 @@
 ||wcdn.co.il/w/w-300/*-67.
 ||wink.globes.co.il^
 ||yeshanews.com/banners/
-||ynet.co.il/Common/Api/Scripts/Linkom/
-||ynet.co.il/images/hp_player_lightbox_top.png
-||ynet.co.il/WinWinCooperation/
 !
 !---------- Whitelists ----------
 !
