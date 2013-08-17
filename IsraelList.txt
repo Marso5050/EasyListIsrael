@@ -159,6 +159,7 @@
 ||d.co.il/Hebrew/images/Premium/
 ||date.dacho.co.il^
 ||ddlil.com/banners/
+||dimpact.co.il/Live/Banner/
 ||forbes.co.il/download/banners/
 ||fus.walla.co.il/script.js
 ||globes.co.il/data/js/gtv_ads.js
