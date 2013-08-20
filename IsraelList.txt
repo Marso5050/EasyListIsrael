@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: josnRELTC3hpgpvnCE7Oxw
+! Checksum: 4DxwzuUfBUvw+U6tc3EpJg
 ! Title: Rafi's IsraelList
-! Last modified: 17/08/13  23:41 Jerusalem Daylight Time
+! Last modified: 20/08/13  09:11 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -21,12 +21,6 @@
 /js/linicom/*
 /pirsum/*$script,object
 |http://ad.$domain=co.il
-!----Misc.----!
-/@ads.js&$domain=co.il
-/AdPhreakClient.$domain=co.il
-/adsclickos.$script
-/AdsManager.$domain=co.il
-^ad_type=$domain=co.il
 !
 ! ---------- 3rd party blocking rules ----------
 !
@@ -86,7 +80,6 @@
 ||ws.walla.co.il^$third-party
 ||www.21.tv^$third-party
 ||yeppyepp.co.il^$popup,image,~image
-||yesno.co.il^$popup,image,~image
 ||youtoo.co.il^$third-party
 !
 !-------------------------Site specific ad blocking rules--------------------------!
@@ -96,14 +89,14 @@
 ||clicks.walla.co.il^
 ||fus.walla.co.il/vast/
 ||xwne.wcdn.co.il^$domain=walla.co.il
+!chrome
+||fus.walla.co.il/script.js?
 !-ynet-!
 /CdaMarketingLink/*
 /CdaMarketTextlinks_
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||go.ynet.co.il/short/commerce/
-||ynet.co.il/Common/Api/Scripts/Linkom/
 ||ynet.co.il/images/headline_video_header_samsung.png
-||ynet.co.il/images/hp_player_lightbox_top.png
 ||ynet.co.il/WinWinCooperation/
 ||ynetshops.co.il/article/showbanner2/
 !-nrg-!
@@ -133,6 +126,7 @@
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/data/js/gtv_ads.js
 ||globes.co.il/news/frames/topbannerflash$subdocument
+||wink.globes.co.il^
 !-zvz-!
 ||bannerwebservice.zvz.co.il^
 ||zvz.co.il/BannerCommunication.
@@ -188,12 +182,7 @@
 ||sonara.net/js/asyn_banners.php
 ||sonara.net/static_banners.php
 ||sport5.co.il/banners2/
-||views.co.il/banners/
 ||wcdn.co.il/banners/
-||wcdn.co.il/w/w-300/*-35.
-||wcdn.co.il/w/w-300/*-5.
-||wcdn.co.il/w/w-300/*-67.
-||wink.globes.co.il^
 ||yeshanews.com/banners/
 !
 !---------- Whitelists ----------

@@ -1,7 +1,3 @@
-/@ads.js&$domain=co.il
-/AdPhreakClient.$domain=co.il
-/adsclickos.$script
-/AdsManager.$domain=co.il
 /albums/intro5.flv$domain=flix.co.il|tapuz.co.il
 /CdaMarketTextlinks_
 /HiroBeacon?
@@ -87,7 +83,6 @@ themarker.com##.topBanners
 themarker.com##[src^="/tmc/banners/dclk"]
 wen.co.il###banner_preload
 zvz.co.il##.ad_upper_sdera_container
-^ad_type=$domain=co.il
 ||1010.co.il^$popup,image,~image
 ||1800550.net^$third-party
 ||24love.co.il^$third-party
