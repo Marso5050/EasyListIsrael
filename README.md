@@ -9,5 +9,5 @@ if you don't have ad blcok you can easly install it. it has versions for Firefox
 <a href="https://adblockplus.org/">just go to their website</a><p><p>
 for now the list is located also:<br>
 https://github.com/rafiw/AdBlockIsraelList<br>
-https://github.com/easylistIsraellist/easylistIsraelList
+https://github.com/AdBlockPlusIsrael/EasyListIsrale
 
