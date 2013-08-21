@@ -1,4 +1,5 @@
 AdBlockIsraelList
 =================
+moved here:
+https://github.com/easylistIsraellist/easylistIsraelList
 
-this is a more updated version of israel list forked from fanboy.
