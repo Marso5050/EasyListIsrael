@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: X8+C7AxDbdfgU3dK8QzZeA
+! Checksum: /9zmsKIwpAdk/dzIsJm6Dw
 ! Title: Rafi's IsraelList
-! Last modified: 21/08/13  10:44 Jerusalem Daylight Time
+! Last modified: 22/08/13  01:34 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -153,6 +153,7 @@
 ||banners.news1.co.il^
 ||beok.co.il/banners/
 ||bgu4u.co.il/download/banners/
+||bizportal.co.il/Scripts/maavaron.js?v=75
 ||cdn.mdigital.co.il/video/*.flv$domain=globes.co.il
 ||cs4u.co.il/mall_site_images/Promotions/
 ||d.co.il/Hebrew/images/Premium/
