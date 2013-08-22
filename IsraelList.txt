@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /9zmsKIwpAdk/dzIsJm6Dw
+! Checksum: RqxA2UnCWG6cvzKKTNg2Jg
 ! Title: Rafi's IsraelList
-! Last modified: 22/08/13  01:34 Jerusalem Daylight Time
+! Last modified: 22/08/13  08:23 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/rafiw/AdBlockIsraelList
 ! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
@@ -168,6 +168,7 @@
 ||hwzone.co.il/jobs/
 ||jobmaster.co.il/code/kot/imageurl.asp?url=http://www.jobmaster.co.il/code/kot/click.asp?i=3442&num=3442&target=_blank
 ||jobmaster.co.il/images/banners/
+||kikarhashabat.co.il/data/auto/images/landing_pages_
 ||kipa.co.il/banner/
 ||kipasruga.com/banner/
 ||moreshet.co.il/banners/
@@ -335,6 +336,7 @@ inn.co.il##[id^="LeftInfo"]
 iphones.co.il###mainBannerSponsers2
 iphones.co.il##div[style="padding-top:10px;width:250px;height:250px"]
 israelhayom.co.il###mini-panel-top_banner
+kikarhashabat.co.il###takeover_wrapper
 kikarhashabat.co.il##.comments_inner_banner
 kikarhashabat.co.il##.frontal_ad430x60
 kikarhashabat.co.il##.kikar_trade_links
