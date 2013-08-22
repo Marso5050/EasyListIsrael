@@ -3,8 +3,8 @@
 ! Title: Rafi's IsraelList
 ! Last modified: 22/08/13  14:05 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
-! Homepage: https://github.com/rafiw/AdBlockIsraelList
-! Forums: https://github.com/rafiw/AdBlockIsraelList/issues
+! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
+! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
 !
 !
 ! Fork of: IsraelList http://code.google.com/p/israellist/
@@ -106,8 +106,8 @@
 !-nana10-!
 ||nana10.co.il/SiteServicePromotion/
 !-Haaretz/TheMarker/Mouse.co.il-!
-/neto_search.$domain=haaretz.co.il|themarker.com|mouse.co.il|haaretz.com
-|http://dclk.$domain=haaretz.co.il|themarker.com|mouse.co.il|haaretz.com
+/neto_search.$domain=haaretz.co.il|themarker.com|mouse.co.il|
+|http://dclk.$domain=haaretz.co.il|themarker.com|mouse.co.il|
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il^*/Banners/
 ||themarker.com/dclk/
@@ -145,7 +145,6 @@
 !
 ||2eat.co.il/banner/
 ||ads.one.co.il^
-||ads.yeshanews.com^
 ||ashams.com/Files/banners/
 ||auto.co.il/Banner/
 ||auto.co.il/BannersIfarme/
@@ -185,7 +184,6 @@
 ||sonara.net/static_banners.php
 ||sport5.co.il/banners2/
 ||wcdn.co.il/banners/
-||yeshanews.com/banners/
 !
 !---------- Whitelists ----------
 !
@@ -293,13 +291,6 @@ flix.mako.co.il###topBannerTable
 flix.tapuz.co.il##.headerMiddle
 flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margin-right: auto; min-height: 94px;\a     padding-bottom: 10px; padding-top: 65px; text-align: center; width: 960px;"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
-fxp.co.il###web_3_tool
-fxp.co.il##[src^="http://pera.co.il/www/delivery/"]
-gamex.co.il###skyscraper
-gamex.co.il##.banner
-gamex.co.il##.banner_forum_post
-gamex.co.il##.banner_middle
-gamex.co.il##.banner_top
 getit.co.il###TopBanner
 globes.co.il###banner870x75
 globes.co.il##.banner
