@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Checksum: DZYz16eTichY/bVMoAFEsw
-! Title: Rafi's IsraelList
+! Title: TheNewIsraelList
 ! Last modified: 25/08/13  00:56 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
@@ -181,6 +181,7 @@
 ||raddar.co.il/bannersa.php
 ||rol.co.il/files/banners/
 ||rotter.net/edit/text/
+||sdarot.tv/banners
 ||sonara.net/js/asyn_banners.php
 ||sonara.net/static_banners.php
 ||sport5.co.il/banners2/
@@ -450,6 +451,7 @@ s-maof.com##DIV[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##DIV[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
 saloona.co.il###footer_banner
 saloona.co.il###top_banner
+sdarot.tv###extra
 sport5.co.il###ucHeader_bannerTop
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
